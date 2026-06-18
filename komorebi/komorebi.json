@@ -1,0 +1,98 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.38/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/.config/komorebi/applications.json",
+  "window_hiding_behaviour": "Cloak",
+  "cross_monitor_move_behaviour": "Insert",
+  "default_workspace_padding": 7,
+  "default_container_padding": 7,
+  "border": true,
+  "border_width": 4,
+  "ignore_rules": [
+    {
+      "kind": "Exe",
+      "id": "cs2",
+      "matching_strategy": "Contains"
+    },
+    {
+      "kind": "Exe",
+      "id": "bfv",
+      "matching_strategy": "Contains"
+    },
+    {
+      "kind": "Exe",
+      "id": "BF2042",
+      "matching_strategy": "Contains"
+    },
+    {
+      "kind": "Exe",
+      "id": "bf6",
+      "matching_strategy": "Contains"
+    },
+    {
+      "kind": "Title",
+      "id": "StoneBlock",
+      "matching_strategy": "Contains"
+    },
+    {
+      "kind": "Title",
+      "id": "T6",
+      "matching_strategy": "Contains"
+    },
+    {
+      "kind": "Exe",
+      "id": "java",
+      "matching_strategy": "Contains"
+    }
+  ],
+  "border_offset": 1,
+  "theme": {
+    "palette": "Base16",
+    "name": "3024",
+    "unfocused_border": "Base01",
+    "floating_border": "Base05",
+    "monocle_border": "Base05",
+    "single_border": "Base05",
+    "stack_border": "Base05",
+    "bar_accent": "Base05"
+  },
+  "animation": {
+    "enabled": false,
+    "duration": 250,
+    "fps": 165,
+    "style": "EaseOutSine"
+  },
+  "monitors": [
+    {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "BSP"
+        },
+        {
+          "name": "II",
+          "layout": "BSP"
+        },
+        {
+          "name": "III",
+          "layout": "BSP"
+        },
+        {
+          "name": "IV",
+          "layout": "BSP"
+        },
+        {
+          "name": "V",
+          "layout": "BSP"
+        },
+        {
+          "name": "VI",
+          "layout": "BSP"
+        },
+        {
+          "name": "VII",
+          "layout": "BSP"
+        }
+      ]
+    }
+  ]
+}

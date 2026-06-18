@@ -612,3 +612,32 @@
 2026-06-18 14:47:19,400 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
 2026-06-18 14:47:19,400 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
 2026-06-18 14:47:19,400 [ERROR] [MainThread] [root/main.py:76]: Another instance of the YASB is already running.
+2026-06-18 14:47:25,717 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-7b6bb2d8-6ae1-11f1-a50a-0a6230508fc5
+2026-06-18 14:56:49,058 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 14:56:49.058926
+2026-06-18 15:06:49,090 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 15:06:49.090829
+2026-06-18 15:16:49,093 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 15:16:49.093293
+2026-06-18 15:26:49,053 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 15:26:49.053058
+2026-06-18 15:36:50,057 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 15:36:50.057221
+2026-06-18 15:46:49,054 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 15:46:49.054498
+2026-06-18 15:56:49,100 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 15:56:49.100174
+2026-06-18 16:06:49,050 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 16:06:49.049779
+2026-06-18 16:16:49,185 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 16:16:49.185934
+2026-06-18 16:26:49,112 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 16:26:49.112179
+2026-06-18 16:36:49,064 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 16:36:49.064909
+2026-06-18 16:46:49,054 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 16:46:49.054700
+2026-06-18 16:56:49,054 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 16:56:49.054963
+2026-06-18 17:06:49,081 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 17:06:49.081765
+2026-06-18 17:16:49,052 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 17:16:49.052092
+2026-06-18 17:26:49,059 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 17:26:49.059287
+2026-06-18 17:36:49,073 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 17:36:49.073005
+2026-06-18 17:46:49,080 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 17:46:49.080375
+2026-06-18 17:56:49,067 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 17:56:49.067592
+2026-06-18 18:06:49,070 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 18:06:49.070749
+2026-06-18 18:16:49,050 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 18:16:49.050368
+2026-06-18 18:26:49,061 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 18:26:49.061016
+2026-06-18 18:36:49,059 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 18:36:49.059770
+2026-06-18 18:46:49,114 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-18 18:46:49.114586
+2026-06-18 18:50:18,675 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2026-06-18 18:50:18,675 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-06-18 18:50:21,676 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-7b6bb2d8-6ae1-11f1-a50a-0a6230508fc5
+2026-06-18 18:51:38,246 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-7b6bb2d8-6ae1-11f1-a50a-0a6230508fc5
