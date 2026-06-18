@@ -236,30 +236,30 @@
 theme = "default"
 
 [styles.cpu]
-all_entry_color = "green"
-avg_entry_color = "red"
-cpu_core_colors = ["light magenta", "light yellow", "light cyan", "light green", "light yellow", "cyan", "green", "light yellow"]
+all_entry_color = "grey"
+avg_entry_color = "grey"
+cpu_core_colors = ["grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey"]
 
 [styles.memory]
-ram_color = "light magenta"
-cache_color = "light red"
-swap_color = "light yellow"
-#arc_color = "light cyan"
-gpu_colors = ["light yellow", "light red", "cyan", "green", "light yellow", "red"]
+ram_color = "grey"
+cache_color = "grey"
+swap_color = "grey"
+#arc_color = "grey"
+gpu_colors = ["grey", "grey", "grey", "grey", "grey", "grey"]
 
 [styles.network]
-rx_color = "light magenta"
-tx_color = "light yellow"
-rx_total_color = "light cyan"
-tx_total_color = "light green"
+rx_color = "grey"
+tx_color = "grey"
+rx_total_color = "grey"
+tx_total_color = "grey"
 
 [styles.battery]
-high_battery_color = "green"
-medium_battery_color = "yellow"
-low_battery_color = "red"
+high_battery_color = "grey"
+medium_battery_color = "grey"
+low_battery_color = "grey"
 
 [styles.tables]
-headers = {color = "light yellow", bold = true}
+headers = {color = "grey", bold = true}
 
 [styles.graphs]
 graph_color = "gray"
@@ -267,10 +267,10 @@ legend_text = {color = "gray"}
 
 [styles.widgets]
 border_color = "gray"
-selected_border_color = "light yellow"
+selected_border_color = "grey"
 widget_title = {color = "gray"}
 text = {color = "gray"}
-selected_text = {color = "black", bg_color = "light yellow"}
+selected_text = {color = "black", bg_color = "grey"}
 disabled_text = {color = "dark gray"}
 
 # Only on Linux
