@@ -15,4 +15,5 @@ hidden taskbar ofc
 
 ## Preview
 
-<img width="2559" height="1438" alt="image" src="https://github.com/user-attachments/assets/0063630b-1f54-4bdb-957a-a2bb51aec6cc" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c7a48ee-097d-43f5-bf62-bd2b7f17898c" />
+
