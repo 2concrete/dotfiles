@@ -2,12 +2,12 @@
 
 **setup**
 
-- komorebi window manager
-- yasb status bar
-- winfetch - hello kitty ascii
-- ohmyposh terminal theme
+- [komorebi](https://github.com/LGUG2Z/komorebi) window manager
+- [yasb](https://github.com/amnweb/yasb) status bar
+- [winfetch](https://github.com/lptstr/winfetch) - hello kitty ascii
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) terminal theme
 - startup.bat - komorebi/yasb/open terminal on login
-- yazi - tui file manager
+- [yazi](https://github.com/sxyazi/yazi) - tui file manager
 
 hidden taskbar ofc
 
