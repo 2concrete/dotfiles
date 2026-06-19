@@ -11,7 +11,7 @@
 - [zen](https://github.com/zen-browser/desktop) - modded browser
 - [sine mods](https://github.com/CosmoCreeper/Sine) - mods for zen - [my mods/config](https://github.com/2concrete/dotfiles/blob/main/sine-mods-concrete.json)
 
-hidden taskbar ofc
+<sub>hidden taskbar ofc</sub>
 
 ## Preview
 
