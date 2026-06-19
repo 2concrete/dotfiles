@@ -3937,3 +3937,17 @@ Exception: Weather response error 503: ServiceUnavailableError 403.
 2026-06-19 16:32:05,247 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
 2026-06-19 16:32:05,250 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
 2026-06-19 16:32:05,251 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-06-19 16:33:20,991 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-06-19 16:33:21,040 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-06-19 16:33:21,041 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-06-19 16:33:22,181 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-06-19 16:33:25,324 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-06-19 16:33:27,612 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-06-19 16:33:27,612 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-06-19 16:33:27,613 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-06-19 16:33:27,613 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-8b583cd2-6bb9-11f1-8b7d-0a6230508fc5
+2026-06-19 16:33:28,054 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-8b583cd2-6bb9-11f1-8b7d-0a6230508fc5
+2026-06-19 16:33:28,132 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-06-19 16:33:28,133 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-06-19 16:33:28,447 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 16:33:28.447213
+2026-06-19 16:43:26,460 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 16:43:26.459792
