@@ -5,6 +5,8 @@ if (Test-Path($ChocolateyProfile)) {
   Import-Module "$ChocolateyProfile"
 }
 
+winfetch
+
 function y {
     $tmp = (New-TemporaryFile).FullName
     yazi $args --cwd-file="$tmp"
