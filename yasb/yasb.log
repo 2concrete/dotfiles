@@ -3951,3 +3951,112 @@ Exception: Weather response error 503: ServiceUnavailableError 403.
 2026-06-19 16:33:28,133 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
 2026-06-19 16:33:28,447 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 16:33:28.447213
 2026-06-19 16:43:26,460 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 16:43:26.459792
+2026-06-19 16:53:26,464 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 16:53:26.463675
+2026-06-19 17:03:26,456 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 17:03:26.456972
+2026-06-19 17:13:26,519 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 17:13:26.519637
+2026-06-19 17:23:26,460 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 17:23:26.460269
+2026-06-19 17:33:26,457 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 17:33:26.457869
+2026-06-19 17:43:26,491 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 17:43:26.491656
+2026-06-19 17:53:26,477 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 17:53:26.477641
+2026-06-19 18:03:26,476 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 18:03:26.476999
+2026-06-19 18:13:26,477 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 18:13:26.477779
+2026-06-19 18:23:26,466 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 18:23:26.466566
+2026-06-19 18:33:26,472 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 18:33:26.472370
+2026-06-19 18:43:26,477 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 18:43:26.477726
+2026-06-19 18:53:26,469 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 18:53:26.469993
+2026-06-19 19:02:51,751 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2026-06-19 19:02:51,863 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-06-19 19:02:51,863 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-06-19 19:02:51,978 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-06-19 19:02:51,978 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-06-19 19:02:51,990 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-06-19 19:02:52,003 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-06-19 19:02:52,003 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-06-19 19:02:52,004 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-06-19 19:49:40,171 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-06-19 19:49:40,171 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-06-19 19:49:40,172 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-06-19 19:49:40,834 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-06-19 19:49:43,185 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-06-19 19:49:44,917 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-06-19 19:49:44,918 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-06-19 19:49:44,918 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-06-19 19:49:44,930 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-f72a3ddc-6bd4-11f1-896f-0a6230508fc5
+2026-06-19 19:49:45,425 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-06-19 19:49:45,430 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-06-19 19:49:45,433 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f72a3ddc-6bd4-11f1-896f-0a6230508fc5
+2026-06-19 19:49:45,760 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 19:49:45.760693
+2026-06-19 19:50:13,354 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-06-19 19:50:13,355 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-06-19 19:50:13,355 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-06-19 19:50:13,355 [ERROR] [MainThread] [root/main.py:76]: Another instance of the YASB is already running.
+2026-06-19 19:59:44,025 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 19:59:44.025831
+2026-06-19 20:09:44,062 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 20:09:44.062545
+2026-06-19 20:19:44,088 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 20:19:44.088938
+2026-06-19 20:29:44,113 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 20:29:44.113042
+2026-06-19 20:39:44,011 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 20:39:44.011834
+2026-06-19 20:49:44,061 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 20:49:44.061362
+2026-06-19 20:59:44,036 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 20:59:44.035786
+2026-06-19 21:09:44,030 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 21:09:44.030789
+2026-06-19 21:19:44,083 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 21:19:44.083798
+2026-06-19 21:29:44,022 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 21:29:44.022290
+2026-06-19 21:39:44,065 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 21:39:44.065747
+2026-06-19 21:49:44,093 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 21:49:44.093273
+2026-06-19 21:59:44,042 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 21:59:44.042393
+2026-06-19 22:09:44,020 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 22:09:44.020783
+2026-06-19 22:19:44,046 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 22:19:44.046102
+2026-06-19 22:29:44,021 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 22:29:44.020879
+2026-06-19 22:39:44,026 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 22:39:44.026895
+2026-06-19 22:49:44,013 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 22:49:44.013233
+2026-06-19 22:57:09,627 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-06-19 22:57:09,628 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-06-19 22:57:09,628 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-06-19 22:57:10,134 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-06-19 22:57:10,315 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-06-19 22:57:11,265 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-06-19 22:57:11,269 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-06-19 22:57:11,270 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-06-19 22:57:11,356 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-26836f61-6bef-11f1-b7c1-0a6230508fc5
+2026-06-19 22:57:11,761 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-06-19 22:57:11,762 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-06-19 22:57:11,778 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-26836f61-6bef-11f1-b7c1-0a6230508fc5
+2026-06-19 22:57:12,120 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 22:57:12.120475
+2026-06-19 23:07:10,796 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 23:07:10.796966
+2026-06-19 23:17:10,898 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 23:17:10.897717
+2026-06-19 23:27:10,814 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 23:27:10.814397
+2026-06-19 23:37:10,841 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 23:37:10.841832
+2026-06-19 23:47:10,794 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 23:47:10.794234
+2026-06-19 23:57:10,806 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-19 23:57:10.806831
+2026-06-20 00:07:10,848 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 00:07:10.848981
+2026-06-20 00:17:10,849 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 00:17:10.849300
+2026-06-20 00:18:11,209 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-06-20 00:18:11,209 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-06-20 00:18:11,222 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-06-20 13:43:43,110 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-06-20 13:43:43,112 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-06-20 13:43:43,112 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-06-20 13:43:43,788 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-06-20 13:43:46,627 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-06-20 13:43:48,591 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-06-20 13:43:48,607 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-06-20 13:43:48,607 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-06-20 13:43:48,607 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-0298e5ae-6c6b-11f1-b40d-0a6230508fc5
+2026-06-20 13:43:48,986 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-0298e5ae-6c6b-11f1-b40d-0a6230508fc5
+2026-06-20 13:43:49,066 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-06-20 13:43:49,068 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-06-20 13:43:49,403 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 13:43:49.403495
+2026-06-20 13:48:28,890 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-06-20 13:48:28,891 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-06-20 13:48:28,891 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-06-20 13:48:28,891 [ERROR] [MainThread] [root/main.py:76]: Another instance of the YASB is already running.
+2026-06-20 13:53:47,772 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 13:53:47.772744
+2026-06-20 14:03:47,771 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 14:03:47.770451
+2026-06-20 14:13:47,782 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 14:13:47.782007
+2026-06-20 14:23:47,736 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 14:23:47.736938
+2026-06-20 14:33:47,734 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 14:33:47.733850
+2026-06-20 14:43:47,730 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 14:43:47.730892
+2026-06-20 14:53:47,759 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 14:53:47.759628
+2026-06-20 15:03:47,753 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 15:03:47.753011
+2026-06-20 15:13:47,718 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 15:13:47.718728
+2026-06-20 15:23:47,753 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 15:23:47.753077
+2026-06-20 15:33:47,787 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-20 15:33:47.787699
