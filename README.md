@@ -7,6 +7,7 @@
 - [winfetch](https://github.com/lptstr/winfetch) - hello kitty ascii
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) terminal theme
 - [yazi](https://github.com/sxyazi/yazi) - tui file manager
+- [bottom](https://github.com/clementtsang/bottom) - tui system monitor
 - [zen](https://github.com/zen-browser/desktop) - modded browser
 - [sine mods](https://github.com/CosmoCreeper/Sine) - mods for zen - [my mods/config](https://github.com/2concrete/dotfiles/blob/main/sine-mods-concrete.json)
 - [flow launcher](https://github.com/flow-launcher/flow.launcher) - lightweight search/app launcher
