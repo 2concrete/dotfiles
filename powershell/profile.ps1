@@ -1,3 +1,5 @@
+Clear-Host
+
 oh-my-posh init pwsh --config "C:\Users\daniel\.config\concrete.omp.json" | Invoke-Expression
 
 $ChocolateyProfile = "$env:ChocolateyInstall\helpers\chocolateyProfile.psm1"
@@ -5,7 +7,13 @@ if (Test-Path($ChocolateyProfile)) {
   Import-Module "$ChocolateyProfile"
 }
 
-winfetch
+try {
+    $null = $Host.UI.RawUI.WindowSize
+    winfetch
+} catch {
+}
+
+
 
 function y {
     $tmp = (New-TemporaryFile).FullName

@@ -42,6 +42,11 @@
       "kind": "Exe",
       "id": "java",
       "matching_strategy": "Contains"
+    },
+    {
+      "kind": "Exe",
+      "id": "OpenRGB",
+      "matching_strategy": "Contains"
     }
   ],
   "border_offset": 1,
