@@ -13,6 +13,7 @@
 
 - [startup.bat](https://github.com/2concrete/dotfiles/blob/main/startup.bat) - launch komorebi+yasb and open terminal
 - [profile.ps1](https://github.com/2concrete/dotfiles/blob/main/powershell/profile.ps1) - powershell config
+- [settings.json](https://github.com/2concrete/dotfiles/blob/main/windows-terminal/settings.json) - windows terminal settings
 
 <br>
 <sub>auto hide taskbar ofc</sub>

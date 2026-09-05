@@ -7234,3 +7234,1204 @@ Exception: Weather response error 408: UnknownContentError 299.
 2026-08-22 18:27:26,174 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
 2026-08-22 18:27:26,177 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
 2026-08-22 18:27:26,200 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-08-22 18:29:50,735 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-22 18:29:50,738 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-22 18:29:50,739 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-22 18:29:52,263 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-22 18:30:01,693 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-22 18:30:07,746 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-22 18:30:07,747 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-22 18:30:07,748 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-22 18:30:07,751 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-72301505-9e14-11f1-86b3-0a6230508fc5
+2026-08-22 18:30:08,506 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-72301505-9e14-11f1-86b3-0a6230508fc5
+2026-08-22 18:30:08,519 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-22 18:30:08,520 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-22 18:30:09,204 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 18:30:09.204390
+2026-08-22 18:40:04,388 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 18:40:04.387766
+2026-08-22 18:50:04,214 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 18:50:04.214820
+2026-08-22 19:00:04,368 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 19:00:04.368308
+2026-08-22 19:10:04,204 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 19:10:04.204139
+2026-08-22 19:20:04,290 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 19:20:04.290585
+2026-08-22 19:30:04,546 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 19:30:04.546138
+2026-08-22 19:40:04,278 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 19:40:04.277598
+2026-08-22 19:50:04,226 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 19:50:04.226156
+2026-08-22 20:00:04,514 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 20:00:04.514169
+2026-08-22 20:10:04,215 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 20:10:04.215919
+2026-08-22 20:20:04,390 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 20:20:04.390026
+2026-08-22 20:30:04,409 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 20:30:04.408539
+2026-08-22 20:40:04,040 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 20:40:04.040886
+2026-08-22 20:50:04,313 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 20:50:04.313576
+2026-08-22 21:00:04,563 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 21:00:04.563934
+2026-08-22 21:10:04,208 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 21:10:04.208017
+2026-08-22 21:20:04,394 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 21:20:04.394506
+2026-08-22 21:30:04,211 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 21:30:04.211614
+2026-08-22 21:40:04,192 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 21:40:04.192230
+2026-08-22 21:50:04,198 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-22 21:50:04.198885
+2026-08-22 21:53:26,290 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-22 21:53:26,291 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-22 21:53:26,309 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-23 11:41:46,902 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-23 11:41:46,904 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-23 11:41:46,904 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-23 11:41:47,930 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-23 11:41:50,797 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-23 11:41:52,168 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-23 11:41:52,169 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-23 11:41:52,169 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-23 11:41:52,184 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-94190877-9ea4-11f1-a8cb-0a6230508fc5
+2026-08-23 11:41:52,832 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-23 11:41:52,836 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-23 11:41:52,939 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-94190877-9ea4-11f1-a8cb-0a6230508fc5
+2026-08-23 11:41:53,233 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 11:41:53.233001
+2026-08-23 11:51:51,918 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 11:51:51.918009
+2026-08-23 11:54:24,277 [DEBUG] [MainThread] [root/volume.py:336]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{c5c1dcbb-15a4-49e8-b9d1-1b962399d231}
+2026-08-23 12:01:51,860 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 12:01:51.860523
+2026-08-23 12:11:51,675 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 12:11:51.675294
+2026-08-23 12:21:51,853 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 12:21:51.853045
+2026-08-23 12:31:52,124 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 12:31:52.124287
+2026-08-23 12:41:51,837 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 12:41:51.837578
+2026-08-23 12:51:51,875 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 12:51:51.875153
+2026-08-23 13:01:51,880 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 13:01:51.880385
+2026-08-23 13:11:51,870 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 13:11:51.870717
+2026-08-23 13:21:51,849 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 13:21:51.849770
+2026-08-23 13:31:51,940 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 13:31:51.940468
+2026-08-23 13:41:51,837 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 13:41:51.837722
+2026-08-23 13:51:51,841 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 13:51:51.841857
+2026-08-23 14:01:51,911 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 14:01:51.911919
+2026-08-23 14:11:51,853 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 14:11:51.853936
+2026-08-23 14:21:51,864 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 14:21:51.864548
+2026-08-23 14:31:51,845 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 14:31:51.845470
+2026-08-23 14:41:51,845 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 14:41:51.844803
+2026-08-23 14:51:51,873 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 14:51:51.873478
+2026-08-23 15:01:52,028 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 15:01:52.028548
+2026-08-23 15:11:51,832 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 15:11:51.832948
+2026-08-23 15:21:51,850 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 15:21:51.850442
+2026-08-23 15:31:51,846 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 15:31:51.846536
+2026-08-23 15:41:51,864 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 15:41:51.864714
+2026-08-23 15:51:51,769 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 15:51:51.769895
+2026-08-23 16:01:51,660 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 16:01:51.659867
+2026-08-23 16:11:51,898 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 16:11:51.897774
+2026-08-23 16:21:51,677 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 16:21:51.677213
+2026-08-23 16:31:51,659 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 16:31:51.659984
+2026-08-23 16:41:51,789 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 16:41:51.789480
+2026-08-23 16:51:51,650 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 16:51:51.649803
+2026-08-23 17:01:51,656 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 17:01:51.656607
+2026-08-23 17:11:52,064 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 17:11:52.064067
+2026-08-23 17:21:51,662 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 17:21:51.661633
+2026-08-23 17:31:51,685 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 17:31:51.685255
+2026-08-23 17:41:51,665 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 17:41:51.665674
+2026-08-23 17:51:51,664 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 17:51:51.664423
+2026-08-23 18:01:51,655 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 18:01:51.655584
+2026-08-23 18:11:51,793 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 18:11:51.793628
+2026-08-23 18:21:52,038 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 18:21:52.038720
+2026-08-23 18:31:51,653 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 18:31:51.653876
+2026-08-23 18:41:51,662 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 18:41:51.662681
+2026-08-23 18:51:51,941 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 18:51:51.941245
+2026-08-23 19:01:51,676 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 19:01:51.676848
+2026-08-23 19:11:51,655 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 19:11:51.655147
+2026-08-23 19:21:51,974 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 19:21:51.974403
+2026-08-23 19:31:51,958 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 19:31:51.958873
+2026-08-23 19:41:51,661 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 19:41:51.661342
+2026-08-23 19:51:51,739 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 19:51:51.739782
+2026-08-23 20:01:51,659 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 20:01:51.659684
+2026-08-23 20:11:51,667 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 20:11:51.667274
+2026-08-23 20:21:51,685 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 20:21:51.685161
+2026-08-23 20:31:51,664 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 20:31:51.664347
+2026-08-23 20:41:51,649 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 20:41:51.649220
+2026-08-23 20:51:51,653 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 20:51:51.653804
+2026-08-23 21:01:51,655 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 21:01:51.655827
+2026-08-23 21:11:51,687 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 21:11:51.687353
+2026-08-23 21:21:51,847 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 21:21:51.847144
+2026-08-23 21:31:51,846 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 21:31:51.846888
+2026-08-23 21:41:51,673 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 21:41:51.673562
+2026-08-23 21:51:51,671 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 21:51:51.671189
+2026-08-23 22:01:51,748 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 22:01:51.748557
+2026-08-23 22:11:51,681 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 22:11:51.681708
+2026-08-23 22:21:51,677 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 22:21:51.677774
+2026-08-23 22:31:51,668 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 22:31:51.668907
+2026-08-23 22:41:51,967 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 22:41:51.967040
+2026-08-23 22:51:51,853 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 22:51:51.853660
+2026-08-23 23:01:51,917 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 23:01:51.917727
+2026-08-23 23:11:51,681 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 23:11:51.681014
+2026-08-23 23:21:51,657 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 23:21:51.657621
+2026-08-23 23:31:51,665 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 23:31:51.665103
+2026-08-23 23:41:51,661 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 23:41:51.661451
+2026-08-23 23:51:51,930 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-23 23:51:51.930834
+2026-08-24 00:01:51,735 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 00:01:51.735294
+2026-08-24 00:07:55,328 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-24 00:07:55,329 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-24 00:07:55,354 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-24 09:43:23,104 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-24 09:43:23,106 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-24 09:43:23,106 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-24 09:43:25,459 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-24 09:43:30,337 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-24 09:43:32,229 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-24 09:43:32,230 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-24 09:43:32,230 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-24 09:43:32,735 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-369e1c5f-9f5d-11f1-b9e9-0a6230508fc5
+2026-08-24 09:43:32,943 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-369e1c5f-9f5d-11f1-b9e9-0a6230508fc5
+2026-08-24 09:43:32,974 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-24 09:43:32,975 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-24 09:43:33,329 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 09:43:33.329884
+2026-08-24 09:53:31,258 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 09:53:31.258369
+2026-08-24 10:03:31,544 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 10:03:31.544849
+2026-08-24 10:13:31,268 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 10:13:31.268125
+2026-08-24 10:14:46,666 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-24 10:14:46,667 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-24 10:14:46,707 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-24 16:50:57,729 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-24 16:50:57,730 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-24 16:50:57,730 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-24 16:50:57,927 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-24 16:50:58,024 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-24 16:50:58,917 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-24 16:50:58,917 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-24 16:50:58,918 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-24 16:50:58,930 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-ed3c089e-9f98-11f1-8c31-0a6230508fc5
+2026-08-24 16:50:59,417 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-24 16:50:59,431 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-24 16:50:59,444 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-ed3c089e-9f98-11f1-8c31-0a6230508fc5
+2026-08-24 16:50:59,759 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 16:50:59.759575
+2026-08-24 17:00:58,747 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 17:00:58.747510
+2026-08-24 17:10:58,571 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 17:10:58.571031
+2026-08-24 17:20:58,757 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 17:20:58.756762
+2026-08-24 17:30:58,754 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 17:30:58.754945
+2026-08-24 17:40:58,605 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 17:40:58.605854
+2026-08-24 17:50:58,554 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 17:50:58.554818
+2026-08-24 18:00:58,753 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 18:00:58.753726
+2026-08-24 18:10:58,736 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 18:10:58.735472
+2026-08-24 18:20:58,760 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 18:20:58.760331
+2026-08-24 18:30:58,887 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 18:30:58.887491
+2026-08-24 18:40:58,746 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 18:40:58.746795
+2026-08-24 18:50:58,724 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 18:50:58.724849
+2026-08-24 19:00:58,746 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 19:00:58.746125
+2026-08-24 19:10:58,757 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 19:10:58.756789
+2026-08-24 19:20:58,731 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 19:20:58.731299
+2026-08-24 19:30:58,755 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 19:30:58.755408
+2026-08-24 19:40:58,727 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 19:40:58.727650
+2026-08-24 19:50:58,546 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 19:50:58.546634
+2026-08-24 20:00:58,745 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 20:00:58.744707
+2026-08-24 20:10:58,735 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 20:10:58.735244
+2026-08-24 20:20:58,831 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 20:20:58.831955
+2026-08-24 20:30:58,730 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 20:30:58.730764
+2026-08-24 20:40:58,726 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 20:40:58.726500
+2026-08-24 20:50:58,561 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 20:50:58.561693
+2026-08-24 21:00:58,738 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 21:00:58.738709
+2026-08-24 21:10:58,771 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 21:10:58.771375
+2026-08-24 21:20:58,760 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 21:20:58.760797
+2026-08-24 21:30:58,750 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 21:30:58.750176
+2026-08-24 21:40:58,725 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 21:40:58.725978
+2026-08-24 21:50:58,549 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 21:50:58.549250
+2026-08-24 22:00:58,870 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 22:00:58.870104
+2026-08-24 22:10:58,737 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 22:10:58.737032
+2026-08-24 22:20:58,748 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 22:20:58.748290
+2026-08-24 22:30:58,683 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 22:30:58.683109
+2026-08-24 22:40:58,722 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 22:40:58.721676
+2026-08-24 22:50:59,003 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 22:50:59.003521
+2026-08-24 23:00:59,865 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 23:00:59.865646
+2026-08-24 23:10:59,862 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 23:10:59.862295
+2026-08-24 23:20:59,859 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 23:20:59.859247
+2026-08-24 23:31:00,221 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 23:31:00.221560
+2026-08-24 23:40:59,853 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 23:40:59.853116
+2026-08-24 23:51:00,060 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-24 23:51:00.059918
+2026-08-25 00:01:00,238 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 00:01:00.238460
+2026-08-25 00:11:00,075 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 00:11:00.075597
+2026-08-25 00:21:00,042 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 00:21:00.042571
+2026-08-25 00:31:00,081 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 00:31:00.081016
+2026-08-25 00:41:00,123 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 00:41:00.123964
+2026-08-25 00:51:00,142 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 00:51:00.142810
+2026-08-25 01:01:00,071 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 01:01:00.071972
+2026-08-25 01:10:59,889 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 01:10:59.889603
+2026-08-25 01:21:00,054 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 01:21:00.054738
+2026-08-25 01:31:00,046 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 01:31:00.046912
+2026-08-25 01:41:00,083 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 01:41:00.083085
+2026-08-25 01:50:59,855 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 01:50:59.855685
+2026-08-25 02:01:00,072 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 02:01:00.071914
+2026-08-25 02:01:02,806 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-25 02:01:02,806 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-25 02:01:02,821 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-25 11:17:13,953 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-25 11:17:13,955 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-25 11:17:13,955 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-25 11:17:14,851 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-25 11:17:19,176 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-25 11:17:21,473 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-25 11:17:21,474 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-25 11:17:21,474 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-25 11:17:21,475 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-7c52679c-a033-11f1-801b-0a6230508fc5
+2026-08-25 11:17:22,276 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-7c52679c-a033-11f1-801b-0a6230508fc5
+2026-08-25 11:17:22,276 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-25 11:17:22,277 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-25 11:17:22,609 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 11:17:22.609147
+2026-08-25 11:27:20,881 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 11:27:20.881477
+2026-08-25 11:37:20,707 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 11:37:20.707195
+2026-08-25 11:47:20,401 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 11:47:20.401830
+2026-08-25 11:57:20,574 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 11:57:20.574282
+2026-08-25 12:07:20,418 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 12:07:20.418242
+2026-08-25 12:17:20,423 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 12:17:20.423280
+2026-08-25 12:27:20,505 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 12:27:20.505308
+2026-08-25 12:37:20,724 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 12:37:20.723458
+2026-08-25 12:47:20,590 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 12:47:20.590111
+2026-08-25 12:57:20,615 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 12:57:20.615481
+2026-08-25 13:07:20,604 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 13:07:20.604157
+2026-08-25 13:17:20,413 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 13:17:20.413842
+2026-08-25 13:27:20,578 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 13:27:20.578709
+2026-08-25 13:37:20,680 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 13:37:20.680299
+2026-08-25 13:47:31,243 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:47:31,243 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:47:31,244 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:47:52,392 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:47:52,392 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:47:52,392 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:47:52,393 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:48:13,564 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:48:13,564 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:48:13,564 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:48:13,565 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:48:34,740 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:48:34,740 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:48:34,741 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:48:34,741 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:48:55,903 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:48:55,904 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:48:55,904 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:48:55,905 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:49:17,066 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:49:17,066 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:49:17,066 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:49:17,067 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:49:38,228 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:49:38,228 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:49:38,229 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:49:38,229 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:49:59,399 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:49:59,399 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:49:59,400 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:49:59,401 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:50:20,548 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:50:20,549 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:50:20,549 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:50:20,549 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:50:41,705 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:50:41,705 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:50:41,706 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:50:41,706 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:51:02,860 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:51:02,860 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:51:02,860 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:51:02,861 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:51:24,020 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:51:24,020 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:51:24,020 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:51:24,021 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:51:45,178 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:51:45,178 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:51:45,179 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:51:45,179 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:52:06,333 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:52:06,333 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:52:06,334 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:52:06,334 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:52:27,491 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:52:27,491 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:52:27,492 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:52:27,492 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:52:48,618 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:52:48,618 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:52:48,619 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:52:48,619 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:53:09,786 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:53:09,786 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:53:09,786 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:53:09,787 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:53:30,940 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:53:30,941 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:53:30,941 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:53:30,942 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:53:52,097 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:53:52,097 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:53:52,098 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:53:52,098 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:54:13,264 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:54:13,264 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:54:13,264 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:54:13,265 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:54:34,433 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:54:34,433 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:54:34,433 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:54:34,434 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:54:55,610 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:54:55,610 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:54:55,610 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:54:55,611 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:55:16,750 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:55:16,750 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:55:16,750 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:55:16,751 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:55:37,924 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:55:37,924 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:55:37,925 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:55:37,925 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:55:59,077 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:55:59,077 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:55:59,078 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:55:59,078 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:56:20,242 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:56:20,242 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:56:20,242 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:56:20,243 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:56:41,400 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:56:41,400 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:56:41,401 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:56:41,401 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:57:02,580 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:57:02,580 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:57:02,580 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-08-25 13:57:02,581 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2026-08-25 13:57:17,884 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 13:57:17.884720
+2026-08-25 13:57:17,943 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 13:57:17.943782
+2026-08-25 13:57:20,135 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 13:57:20.135108
+2026-08-25 14:07:20,895 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 14:07:20.895054
+2026-08-25 14:17:20,903 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 14:17:20.903876
+2026-08-25 14:27:20,864 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 14:27:20.863524
+2026-08-25 14:37:20,623 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 14:37:20.623500
+2026-08-25 14:47:20,400 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 14:47:20.400394
+2026-08-25 14:57:20,599 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 14:57:20.599026
+2026-08-25 15:07:20,596 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 15:07:20.596406
+2026-08-25 15:17:20,413 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 15:17:20.413673
+2026-08-25 15:27:20,602 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 15:27:20.602095
+2026-08-25 15:37:21,050 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 15:37:21.050182
+2026-08-25 15:47:20,691 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 15:47:20.690779
+2026-08-25 15:57:20,673 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 15:57:20.673495
+2026-08-25 16:07:20,593 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 16:07:20.593606
+2026-08-25 16:17:20,596 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 16:17:20.596654
+2026-08-25 16:27:20,667 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 16:27:20.667771
+2026-08-25 16:37:20,421 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 16:37:20.421779
+2026-08-25 16:47:20,415 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 16:47:20.415469
+2026-08-25 16:57:20,505 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 16:57:20.505762
+2026-08-25 17:07:20,424 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 17:07:20.424647
+2026-08-25 17:17:20,436 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 17:17:20.436337
+2026-08-25 17:27:20,418 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 17:27:20.418831
+2026-08-25 17:37:20,406 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 17:37:20.406081
+2026-08-25 17:47:20,662 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 17:47:20.662893
+2026-08-25 17:57:20,617 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 17:57:20.617360
+2026-08-25 18:07:20,415 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 18:07:20.415437
+2026-08-25 18:17:20,446 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 18:17:20.446809
+2026-08-25 18:27:20,594 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 18:27:20.593919
+2026-08-25 18:37:20,599 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 18:37:20.599790
+2026-08-25 18:47:20,738 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 18:47:20.738861
+2026-08-25 18:57:20,607 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 18:57:20.607489
+2026-08-25 19:07:20,609 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 19:07:20.609660
+2026-08-25 19:17:20,600 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 19:17:20.600199
+2026-08-25 19:27:20,575 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 19:27:20.575276
+2026-08-25 19:37:20,617 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 19:37:20.617391
+2026-08-25 19:47:20,602 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 19:47:20.602916
+2026-08-25 19:57:20,604 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 19:57:20.603855
+2026-08-25 20:07:20,631 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 20:07:20.631440
+2026-08-25 20:17:20,597 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 20:17:20.597941
+2026-08-25 20:27:20,614 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 20:27:20.614801
+2026-08-25 20:37:20,575 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 20:37:20.575267
+2026-08-25 20:47:20,575 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 20:47:20.575674
+2026-08-25 20:57:20,440 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 20:57:20.440713
+2026-08-25 21:07:20,695 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 21:07:20.695670
+2026-08-25 21:17:20,626 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 21:17:20.625530
+2026-08-25 21:27:20,668 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 21:27:20.668659
+2026-08-25 21:37:20,901 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 21:37:20.901280
+2026-08-25 21:47:20,764 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 21:47:20.764681
+2026-08-25 21:57:20,625 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 21:57:20.625533
+2026-08-25 22:07:20,583 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 22:07:20.583707
+2026-08-25 22:17:20,621 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 22:17:20.621278
+2026-08-25 22:27:20,768 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-25 22:27:20.768790
+2026-08-25 22:29:12,121 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-25 22:29:12,122 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-25 22:29:12,163 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-26 08:15:56,034 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-26 08:15:56,035 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-26 08:15:56,036 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-26 08:15:57,447 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-26 08:16:03,620 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-26 08:16:06,552 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-26 08:16:06,559 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-26 08:16:06,560 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-26 08:16:06,576 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-54c7d7de-a0e3-11f1-89c5-0a6230508fc5
+2026-08-26 08:16:07,114 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-54c7d7de-a0e3-11f1-89c5-0a6230508fc5
+2026-08-26 08:16:07,196 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-26 08:16:07,209 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-26 08:16:07,555 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 08:16:07.555913
+2026-08-26 08:26:05,526 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 08:26:05.526925
+2026-08-26 08:36:05,431 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 08:36:05.431399
+2026-08-26 08:41:06,914 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-26 08:41:06,914 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-26 08:41:06,928 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-26 13:28:20,891 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-26 13:28:20,893 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-26 13:28:20,893 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-26 13:28:22,709 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-26 13:28:27,242 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-26 13:28:29,016 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-26 13:28:29,017 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-26 13:28:29,017 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-26 13:28:29,018 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-f827e422-a10e-11f1-bb18-0a6230508fc5
+2026-08-26 13:28:29,695 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-26 13:28:29,712 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f827e422-a10e-11f1-bb18-0a6230508fc5
+2026-08-26 13:28:29,805 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-26 13:28:30,252 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 13:28:30.252819
+2026-08-26 13:38:28,615 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 13:38:28.615358
+2026-08-26 13:48:28,570 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 13:48:28.570389
+2026-08-26 13:58:28,567 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 13:58:28.567639
+2026-08-26 14:08:28,596 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 14:08:28.596800
+2026-08-26 14:18:28,585 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 14:18:28.585567
+2026-08-26 14:28:28,569 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 14:28:28.569566
+2026-08-26 14:38:28,621 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 14:38:28.621093
+2026-08-26 14:48:28,588 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 14:48:28.588343
+2026-08-26 14:58:28,585 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 14:58:28.585063
+2026-08-26 15:08:28,570 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 15:08:28.570805
+2026-08-26 15:18:28,933 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 15:18:28.932950
+2026-08-26 15:28:28,577 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 15:28:28.577473
+2026-08-26 15:38:28,583 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 15:38:28.583853
+2026-08-26 15:48:28,560 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 15:48:28.560571
+2026-08-26 15:58:28,557 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 15:58:28.557158
+2026-08-26 16:08:28,576 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 16:08:28.576993
+2026-08-26 16:18:28,827 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 16:18:28.827382
+2026-08-26 16:28:28,582 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 16:28:28.582898
+2026-08-26 16:38:28,551 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 16:38:28.551245
+2026-08-26 16:48:28,635 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 16:48:28.635026
+2026-08-26 16:58:28,549 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 16:58:28.549973
+2026-08-26 17:08:28,385 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 17:08:28.385397
+2026-08-26 17:18:28,387 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 17:18:28.387427
+2026-08-26 17:28:28,462 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 17:28:28.462508
+2026-08-26 17:38:28,380 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 17:38:28.380728
+2026-08-26 17:48:28,378 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 17:48:28.378900
+2026-08-26 17:58:28,389 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 17:58:28.389104
+2026-08-26 18:08:28,384 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 18:08:28.384512
+2026-08-26 18:18:28,384 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 18:18:28.384367
+2026-08-26 18:28:28,387 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 18:28:28.387177
+2026-08-26 18:38:28,393 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 18:38:28.393387
+2026-08-26 18:48:28,379 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 18:48:28.379952
+2026-08-26 18:58:28,382 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 18:58:28.382456
+2026-08-26 19:08:28,388 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 19:08:28.388615
+2026-08-26 19:18:28,396 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 19:18:28.396198
+2026-08-26 19:28:28,378 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 19:28:28.378146
+2026-08-26 19:38:28,390 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 19:38:28.390049
+2026-08-26 19:48:28,378 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 19:48:28.378817
+2026-08-26 19:58:28,572 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 19:58:28.572253
+2026-08-26 20:08:28,637 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 20:08:28.637581
+2026-08-26 20:18:28,374 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 20:18:28.374040
+2026-08-26 20:28:28,575 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 20:28:28.575157
+2026-08-26 20:38:28,549 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 20:38:28.548857
+2026-08-26 20:48:28,582 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 20:48:28.582451
+2026-08-26 20:58:28,593 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 20:58:28.592863
+2026-08-26 21:08:28,491 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 21:08:28.491039
+2026-08-26 21:18:28,464 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 21:18:28.464543
+2026-08-26 21:28:28,735 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 21:28:28.735174
+2026-08-26 21:38:28,564 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 21:38:28.563756
+2026-08-26 21:48:28,550 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 21:48:28.550186
+2026-08-26 21:58:28,564 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 21:58:28.564190
+2026-08-26 22:08:28,600 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-26 22:08:28.600719
+2026-08-26 22:14:37,586 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-26 22:14:37,586 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-26 22:14:37,616 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-27 23:11:02,283 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-27 23:11:02,284 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-27 23:11:02,284 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-27 23:11:03,721 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-27 23:11:06,912 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-27 23:11:08,151 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-27 23:11:08,151 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-27 23:11:08,151 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-27 23:11:08,152 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-87d63106-a229-11f1-b22d-0a6230508fc5
+2026-08-27 23:11:08,823 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-27 23:11:08,824 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-87d63106-a229-11f1-b22d-0a6230508fc5
+2026-08-27 23:11:08,824 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-27 23:11:09,488 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-27 23:11:09.488639
+2026-08-27 23:21:07,719 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-27 23:21:07.719936
+2026-08-27 23:31:07,833 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-27 23:31:07.832966
+2026-08-27 23:41:07,899 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-27 23:41:07.899931
+2026-08-27 23:51:07,737 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-27 23:51:07.737753
+2026-08-28 00:01:07,892 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 00:01:07.892942
+2026-08-28 00:11:07,708 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 00:11:07.708763
+2026-08-28 00:21:07,712 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 00:21:07.712340
+2026-08-28 00:31:07,734 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 00:31:07.734191
+2026-08-28 00:41:07,736 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 00:41:07.736607
+2026-08-28 00:51:07,895 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 00:51:07.895006
+2026-08-28 01:01:07,909 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 01:01:07.909714
+2026-08-28 01:11:07,907 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 01:11:07.907331
+2026-08-28 01:21:07,912 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 01:21:07.912439
+2026-08-28 01:31:07,897 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 01:31:07.897954
+2026-08-28 01:41:07,930 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 01:41:07.930530
+2026-08-28 01:51:08,227 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 01:51:08.227155
+2026-08-28 02:01:07,964 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 02:01:07.963924
+2026-08-28 02:07:31,806 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-28 02:07:31,807 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-28 02:07:31,844 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-28 09:10:37,982 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-28 09:10:38,293 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-28 09:10:38,294 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-28 09:10:41,181 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-28 09:10:44,658 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-28 09:10:46,095 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-28 09:10:46,096 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-28 09:10:46,098 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-4c5cc626-a27d-11f1-84af-0a6230508fc5
+2026-08-28 09:10:46,109 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-28 09:10:46,517 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-4c5cc626-a27d-11f1-84af-0a6230508fc5
+2026-08-28 09:10:46,701 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-28 09:10:46,714 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-28 09:10:47,428 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 09:10:47.428519
+2026-08-28 09:12:27,812 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-28 09:12:27,813 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-28 09:12:27,814 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-28 17:14:36,659 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-28 17:14:36,661 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-28 17:14:36,661 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-28 17:14:36,900 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-28 17:14:37,002 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-28 17:14:37,932 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-28 17:14:37,932 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-28 17:14:37,933 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-28 17:14:38,327 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-e4af938c-a2c0-11f1-bf07-0a6230508fc5
+2026-08-28 17:14:38,432 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-28 17:14:38,434 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-28 17:14:38,458 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-e4af938c-a2c0-11f1-bf07-0a6230508fc5
+2026-08-28 17:14:38,796 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 17:14:38.796990
+2026-08-28 17:24:37,962 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 17:24:37.961937
+2026-08-28 17:34:37,640 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 17:34:37.639111
+2026-08-28 17:44:37,522 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 17:44:37.521908
+2026-08-28 17:54:37,851 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 17:54:37.851609
+2026-08-28 18:04:37,518 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 18:04:37.516880
+2026-08-28 18:14:37,705 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 18:14:37.705254
+2026-08-28 18:24:37,600 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 18:24:37.599887
+2026-08-28 18:34:37,776 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 18:34:37.776884
+2026-08-28 18:44:37,682 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 18:44:37.682483
+2026-08-28 18:54:37,482 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 18:54:37.482299
+2026-08-28 19:04:37,759 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 19:04:37.759414
+2026-08-28 19:14:37,683 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 19:14:37.683265
+2026-08-28 19:24:37,698 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 19:24:37.698712
+2026-08-28 19:34:38,004 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 19:34:38.004804
+2026-08-28 19:44:37,489 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 19:44:37.489668
+2026-08-28 19:54:37,485 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 19:54:37.485310
+2026-08-28 20:04:37,495 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 20:04:37.495308
+2026-08-28 20:14:37,494 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 20:14:37.494048
+2026-08-28 20:24:37,677 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 20:24:37.677456
+2026-08-28 20:34:37,578 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 20:34:37.578881
+2026-08-28 20:44:37,678 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 20:44:37.678068
+2026-08-28 20:54:37,722 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 20:54:37.722048
+2026-08-28 21:04:37,869 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 21:04:37.869014
+2026-08-28 21:14:37,686 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 21:14:37.686519
+2026-08-28 21:24:37,656 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 21:24:37.656294
+2026-08-28 21:34:37,766 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 21:34:37.766296
+2026-08-28 21:44:37,674 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 21:44:37.674254
+2026-08-28 21:54:37,677 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 21:54:37.677564
+2026-08-28 22:04:38,952 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 22:04:38.952038
+2026-08-28 22:14:39,115 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 22:14:39.115690
+2026-08-28 22:24:38,951 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 22:24:38.951508
+2026-08-28 22:34:38,981 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 22:34:38.981344
+2026-08-28 22:44:39,150 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 22:44:39.149871
+2026-08-28 22:54:38,986 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 22:54:38.985700
+2026-08-28 23:04:38,969 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 23:04:38.968603
+2026-08-28 23:14:38,963 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 23:14:38.963011
+2026-08-28 23:24:38,966 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 23:24:38.966556
+2026-08-28 23:34:39,031 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 23:34:39.030291
+2026-08-28 23:44:39,228 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 23:44:39.228508
+2026-08-28 23:54:38,774 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-28 23:54:38.774180
+2026-08-29 00:04:38,965 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 00:04:38.965276
+2026-08-29 00:14:38,944 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 00:14:38.944317
+2026-08-29 00:24:38,965 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 00:24:38.965898
+2026-08-29 00:34:39,157 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 00:34:39.157360
+2026-08-29 00:44:38,943 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 00:44:38.943535
+2026-08-29 00:54:38,984 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 00:54:38.984115
+2026-08-29 01:04:38,788 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 01:04:38.788334
+2026-08-29 01:14:38,782 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 01:14:38.782534
+2026-08-29 01:24:38,789 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 01:24:38.789713
+2026-08-29 01:34:38,874 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 01:34:38.874859
+2026-08-29 01:44:39,137 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 01:44:39.137664
+2026-08-29 01:54:38,969 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 01:54:38.969842
+2026-08-29 02:04:39,119 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 02:04:39.119309
+2026-08-29 02:14:39,000 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 02:14:39.000179
+2026-08-29 02:24:39,066 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 02:24:39.066392
+2026-08-29 02:34:39,133 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 02:34:39.133585
+2026-08-29 02:38:53,535 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-29 02:38:53,535 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-29 02:38:53,548 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-29 11:28:28,419 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-29 11:28:28,420 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-29 11:28:28,420 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-29 11:28:29,965 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-29 11:28:33,980 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-29 11:28:35,680 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-29 11:28:35,709 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-29 11:28:35,710 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-29 11:28:35,710 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-b7d978dd-a359-11f1-9b1c-0a6230508fc5
+2026-08-29 11:28:35,884 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-29 11:28:35,885 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-b7d978dd-a359-11f1-9b1c-0a6230508fc5
+2026-08-29 11:28:35,885 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-29 11:28:36,204 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 11:28:36.204500
+2026-08-29 11:38:35,355 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 11:38:35.355668
+2026-08-29 11:48:35,371 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 11:48:35.371578
+2026-08-29 11:58:35,352 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 11:58:35.352835
+2026-08-29 12:08:35,601 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 12:08:35.601648
+2026-08-29 12:18:35,165 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 12:18:35.165408
+2026-08-29 12:28:35,187 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 12:28:35.187045
+2026-08-29 12:38:35,225 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 12:38:35.225342
+2026-08-29 12:48:35,472 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 12:48:35.472186
+2026-08-29 12:58:35,663 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 12:58:35.663833
+2026-08-29 13:08:35,359 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 13:08:35.359267
+2026-08-29 13:18:35,365 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 13:18:35.365156
+2026-08-29 13:28:35,355 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 13:28:35.355301
+2026-08-29 13:38:35,372 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 13:38:35.372939
+2026-08-29 13:48:35,456 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 13:48:35.456745
+2026-08-29 13:58:35,551 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 13:58:35.551872
+2026-08-29 14:08:35,345 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 14:08:35.345509
+2026-08-29 14:18:35,363 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 14:18:35.363299
+2026-08-29 14:28:35,364 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 14:28:35.363595
+2026-08-29 14:38:35,358 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 14:38:35.358129
+2026-08-29 14:48:35,454 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 14:48:35.454025
+2026-08-29 14:58:35,355 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 14:58:35.355861
+2026-08-29 15:08:35,462 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 15:08:35.462864
+2026-08-29 15:18:35,370 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 15:18:35.370896
+2026-08-29 15:28:35,167 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 15:28:35.167244
+2026-08-29 15:38:35,361 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 15:38:35.361045
+2026-08-29 15:48:35,340 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 15:48:35.340587
+2026-08-29 15:58:35,439 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 15:58:35.439284
+2026-08-29 16:08:35,374 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 16:08:35.374434
+2026-08-29 16:18:35,359 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 16:18:35.359146
+2026-08-29 16:28:35,346 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 16:28:35.346450
+2026-08-29 16:38:35,380 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 16:38:35.380128
+2026-08-29 16:48:35,282 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 16:48:35.282766
+2026-08-29 16:58:35,175 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 16:58:35.175464
+2026-08-29 17:08:35,169 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 17:08:35.169016
+2026-08-29 17:18:35,171 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 17:18:35.171978
+2026-08-29 17:28:35,505 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 17:28:35.505806
+2026-08-29 17:38:35,368 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 17:38:35.368907
+2026-08-29 17:48:35,338 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 17:48:35.338164
+2026-08-29 17:58:35,354 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 17:58:35.354208
+2026-08-29 18:08:35,165 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 18:08:35.165853
+2026-08-29 18:18:35,535 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 18:18:35.535728
+2026-08-29 18:28:35,487 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 18:28:35.486657
+2026-08-29 18:38:35,361 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 18:38:35.361918
+2026-08-29 18:48:35,360 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 18:48:35.360995
+2026-08-29 18:58:35,356 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 18:58:35.356704
+2026-08-29 19:08:35,361 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 19:08:35.361655
+2026-08-29 19:18:35,531 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 19:18:35.531899
+2026-08-29 19:28:35,182 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 19:28:35.182438
+2026-08-29 19:38:35,347 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 19:38:35.347250
+2026-08-29 19:48:35,381 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 19:48:35.381983
+2026-08-29 19:58:35,365 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 19:58:35.365155
+2026-08-29 20:08:35,380 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 20:08:35.380152
+2026-08-29 20:18:35,365 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 20:18:35.365863
+2026-08-29 20:28:35,350 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 20:28:35.350134
+2026-08-29 20:38:35,494 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 20:38:35.494420
+2026-08-29 20:48:35,340 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 20:48:35.340713
+2026-08-29 20:58:35,365 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 20:58:35.365713
+2026-08-29 21:08:35,359 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 21:08:35.359384
+2026-08-29 21:18:35,352 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 21:18:35.352554
+2026-08-29 21:28:35,350 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 21:28:35.350286
+2026-08-29 21:38:35,466 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 21:38:35.466135
+2026-08-29 21:48:35,328 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 21:48:35.327952
+2026-08-29 21:58:35,351 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 21:58:35.351390
+2026-08-29 22:08:35,167 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 22:08:35.167879
+2026-08-29 22:18:35,218 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 22:18:35.218082
+2026-08-29 22:28:35,175 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 22:28:35.175017
+2026-08-29 22:38:35,168 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 22:38:35.168055
+2026-08-29 22:48:35,250 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 22:48:35.250394
+2026-08-29 22:58:35,181 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 22:58:35.181010
+2026-08-29 23:08:35,444 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 23:08:35.444227
+2026-08-29 23:18:35,522 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 23:18:35.522673
+2026-08-29 23:28:35,351 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 23:28:35.351596
+2026-08-29 23:38:35,363 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 23:38:35.363188
+2026-08-29 23:48:37,858 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 23:48:37.858903
+2026-08-29 23:52:32,702 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2026-08-29 23:52:32,815 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-08-29 23:52:32,815 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-08-29 23:52:33,214 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-29 23:52:33,214 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-29 23:52:33,246 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-29 23:52:33,249 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-08-29 23:52:33,264 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-08-29 23:52:33,266 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-08-29 23:53:33,085 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-29 23:53:33,116 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-29 23:53:33,116 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-29 23:53:34,203 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-29 23:53:36,723 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-29 23:53:39,103 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-29 23:53:39,104 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-29 23:53:39,105 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-29 23:53:39,495 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-cd2644ab-a3c1-11f1-8a12-0a6230508fc5
+2026-08-29 23:53:39,604 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-29 23:53:39,606 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-29 23:53:39,631 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-cd2644ab-a3c1-11f1-8a12-0a6230508fc5
+2026-08-29 23:53:40,082 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-29 23:53:40.082113
+2026-08-30 00:03:38,435 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 00:03:38.435910
+2026-08-30 00:13:38,458 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 00:13:38.458907
+2026-08-30 00:23:38,221 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 00:23:38.221503
+2026-08-30 00:33:38,541 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 00:33:38.541652
+2026-08-30 00:43:38,453 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 00:43:38.453984
+2026-08-30 00:53:38,409 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 00:53:38.409234
+2026-08-30 01:03:38,417 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 01:03:38.417741
+2026-08-30 01:13:38,408 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 01:13:38.408568
+2026-08-30 01:23:38,413 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 01:23:38.413662
+2026-08-30 01:33:38,402 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 01:33:38.402187
+2026-08-30 01:43:38,411 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 01:43:38.411589
+2026-08-30 01:53:38,442 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 01:53:38.442824
+2026-08-30 02:03:38,415 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 02:03:38.415381
+2026-08-30 02:13:38,597 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 02:13:38.597997
+2026-08-30 02:23:38,609 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 02:23:38.609264
+2026-08-30 02:33:38,433 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 02:33:38.433991
+2026-08-30 02:35:44,361 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-30 02:35:44,362 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-30 02:35:44,398 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-30 10:53:13,571 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-30 10:53:13,573 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-30 10:53:13,573 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-30 10:53:14,613 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-30 10:53:18,773 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-30 10:53:21,528 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-30 10:53:21,528 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-30 10:53:21,529 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-30 10:53:21,530 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-f61cf1cb-a41d-11f1-a1d4-0a6230508fc5
+2026-08-30 10:53:22,130 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f61cf1cb-a41d-11f1-a1d4-0a6230508fc5
+2026-08-30 10:53:22,131 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-30 10:53:22,133 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-30 10:53:22,673 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 10:53:22.673780
+2026-08-30 10:53:32,146 [DEBUG] [MainThread] [root/volume.py:336]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{c5c1dcbb-15a4-49e8-b9d1-1b962399d231}
+2026-08-30 11:03:20,354 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 11:03:20.354699
+2026-08-30 11:13:10,619 [DEBUG] [MainThread] [root/volume.py:336]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{19c5a862-d011-4dd5-a193-855f13bf20b6}
+2026-08-30 11:13:14,765 [DEBUG] [MainThread] [root/volume.py:336]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{19c5a862-d011-4dd5-a193-855f13bf20b6}
+2026-08-30 11:13:20,182 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 11:13:20.182489
+2026-08-30 11:16:33,128 [DEBUG] [MainThread] [root/volume.py:336]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{3a8b96eb-abd7-48e0-b481-a2fd05401256}
+2026-08-30 11:23:20,358 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 11:23:20.358590
+2026-08-30 11:33:20,354 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 11:33:20.354566
+2026-08-30 11:43:20,163 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 11:43:20.163727
+2026-08-30 11:53:20,161 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 11:53:20.161637
+2026-08-30 12:03:20,399 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 12:03:20.399057
+2026-08-30 12:13:20,165 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 12:13:20.165003
+2026-08-30 12:23:20,159 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 12:23:20.159768
+2026-08-30 12:33:20,343 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 12:33:20.343111
+2026-08-30 12:43:20,340 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 12:43:20.340859
+2026-08-30 12:53:20,449 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 12:53:20.449355
+2026-08-30 13:03:20,350 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 13:03:20.350479
+2026-08-30 13:13:20,363 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 13:13:20.362533
+2026-08-30 13:23:20,166 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 13:23:20.166171
+2026-08-30 13:33:20,340 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 13:33:20.340717
+2026-08-30 13:43:20,346 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 13:43:20.345512
+2026-08-30 13:53:20,351 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 13:53:20.351639
+2026-08-30 14:03:20,343 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 14:03:20.343904
+2026-08-30 14:13:20,173 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 14:13:20.173732
+2026-08-30 14:23:20,158 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 14:23:20.158662
+2026-08-30 14:33:20,351 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 14:33:20.351058
+2026-08-30 14:43:20,341 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 14:43:20.341253
+2026-08-30 14:53:20,338 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 14:53:20.338509
+2026-08-30 15:03:20,347 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 15:03:20.347470
+2026-08-30 15:13:20,164 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 15:13:20.164161
+2026-08-30 15:23:20,162 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 15:23:20.162246
+2026-08-30 15:33:20,339 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 15:33:20.339133
+2026-08-30 15:43:20,362 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 15:43:20.362451
+2026-08-30 15:53:20,378 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 15:53:20.378444
+2026-08-30 16:03:20,382 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 16:03:20.382195
+2026-08-30 16:13:20,358 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 16:13:20.358965
+2026-08-30 16:23:20,684 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 16:23:20.683753
+2026-08-30 16:33:20,297 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 16:33:20.297503
+2026-08-30 16:43:20,176 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 16:43:20.176807
+2026-08-30 16:53:20,445 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 16:53:20.445466
+2026-08-30 17:03:20,333 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 17:03:20.333542
+2026-08-30 17:13:20,362 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 17:13:20.362561
+2026-08-30 17:23:20,341 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 17:23:20.341060
+2026-08-30 17:33:20,359 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 17:33:20.359827
+2026-08-30 17:43:20,161 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 17:43:20.161655
+2026-08-30 17:53:20,328 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 17:53:20.328874
+2026-08-30 18:03:20,172 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 18:03:20.172703
+2026-08-30 18:13:20,160 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 18:13:20.160771
+2026-08-30 18:23:20,311 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 18:23:20.311537
+2026-08-30 18:33:20,283 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 18:33:20.283266
+2026-08-30 18:39:47,607 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-30 18:39:47,609 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-30 18:39:47,746 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-30 22:27:11,949 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-30 22:27:11,951 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-30 22:27:11,951 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-30 22:27:13,198 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-30 22:27:20,934 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-30 22:27:23,942 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-30 22:27:23,943 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-30 22:27:23,943 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-30 22:27:24,049 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-eaed0a6b-a47e-11f1-bcc8-0a6230508fc5
+2026-08-30 22:27:24,069 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-30 22:27:24,070 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-30 22:27:24,161 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-eaed0a6b-a47e-11f1-bcc8-0a6230508fc5
+2026-08-30 22:27:24,381 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 22:27:24.380661
+2026-08-30 22:37:23,059 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 22:37:23.059001
+2026-08-30 22:47:22,792 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 22:47:22.791672
+2026-08-30 22:57:22,976 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 22:57:22.976027
+2026-08-30 23:07:22,792 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 23:07:22.792181
+2026-08-30 23:17:22,806 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 23:17:22.806823
+2026-08-30 23:27:22,998 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 23:27:22.998257
+2026-08-30 23:37:23,005 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 23:37:23.005500
+2026-08-30 23:47:22,990 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 23:47:22.990671
+2026-08-30 23:57:22,988 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-30 23:57:22.988510
+2026-08-31 00:07:22,988 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 00:07:22.988567
+2026-08-31 00:17:22,991 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 00:17:22.989708
+2026-08-31 00:27:22,994 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 00:27:22.994487
+2026-08-31 00:37:22,983 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 00:37:22.983322
+2026-08-31 00:47:22,984 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 00:47:22.982985
+2026-08-31 00:57:23,071 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 00:57:23.071585
+2026-08-31 01:07:22,977 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 01:07:22.977330
+2026-08-31 01:17:22,991 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 01:17:22.991319
+2026-08-31 01:19:40,564 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-31 01:19:40,564 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-31 01:19:40,609 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-31 10:02:55,913 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-31 10:02:55,929 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-31 10:02:55,929 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-31 10:02:57,047 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-31 10:03:02,044 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-31 10:03:04,845 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-31 10:03:04,846 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-31 10:03:04,847 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-31 10:03:05,448 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-1a716a90-a4e0-11f1-b448-0a6230508fc5
+2026-08-31 10:03:05,552 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-31 10:03:05,553 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-31 10:03:05,584 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-1a716a90-a4e0-11f1-b448-0a6230508fc5
+2026-08-31 10:03:05,911 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 10:03:05.911812
+2026-08-31 10:13:03,545 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 10:13:03.545181
+2026-08-31 10:23:03,646 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 10:23:03.646159
+2026-08-31 10:33:03,668 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 10:33:03.668170
+2026-08-31 10:40:44,479 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-31 10:40:44,479 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-31 10:40:44,501 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-31 16:50:16,780 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-31 16:50:16,781 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-31 16:50:16,781 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-31 16:50:17,007 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-31 16:50:17,091 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-31 16:50:17,879 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-31 16:50:17,879 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-31 16:50:17,880 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-31 16:50:18,385 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-fdaa6241-a518-11f1-bd16-0a6230508fc5
+2026-08-31 16:50:18,591 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-31 16:50:18,592 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-fdaa6241-a518-11f1-bd16-0a6230508fc5
+2026-08-31 16:50:18,593 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-31 16:50:18,898 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 16:50:18.898564
+2026-08-31 17:00:17,602 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 17:00:17.602153
+2026-08-31 17:10:17,788 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 17:10:17.786932
+2026-08-31 17:20:17,796 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 17:20:17.796467
+2026-08-31 17:30:17,797 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 17:30:17.797433
+2026-08-31 17:40:17,801 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 17:40:17.801105
+2026-08-31 17:50:17,820 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 17:50:17.820316
+2026-08-31 18:00:17,811 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 18:00:17.811580
+2026-08-31 18:10:17,794 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 18:10:17.794995
+2026-08-31 18:20:17,713 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 18:20:17.713043
+2026-08-31 18:30:17,821 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 18:30:17.821655
+2026-08-31 18:40:17,603 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 18:40:17.603103
+2026-08-31 18:50:17,794 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 18:50:17.794564
+2026-08-31 18:55:08,862 [ERROR] [Dummy-12] [core.utils.widgets.media.media/media.py:266]: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready.
+2026-08-31 19:00:17,783 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 19:00:17.783034
+2026-08-31 19:00:40,099 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2026-08-31 19:00:40,100 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2026-08-31 19:00:40,206 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-08-31 19:00:40,206 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-08-31 19:00:40,207 [INFO] [MainThread] [root/bar.py:147]: Screen geometry changed. Updating position for bar (primary-bar_DELL S2415H_416dc082)
+2026-08-31 19:00:41,977 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-31 19:00:41,978 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-31 19:00:41,997 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-31 19:00:42,008 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-08-31 19:00:42,013 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-08-31 19:00:42,014 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-08-31 19:00:42,309 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-31 19:00:42,309 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-31 19:00:42,310 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-31 19:00:42,310 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2026-08-31 19:00:42,811 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2026-08-31 19:00:43,570 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-31 19:00:46,032 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-31 19:00:48,479 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-31 19:00:48,480 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-31 19:00:48,481 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-31 19:00:48,837 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-391141c2-a52b-11f1-82d5-0a6230508fc5
+2026-08-31 19:00:49,266 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-31 19:00:49,266 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-391141c2-a52b-11f1-82d5-0a6230508fc5
+2026-08-31 19:00:49,272 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-31 19:00:49,525 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2026-08-31 19:00:49,525 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2026-08-31 19:00:49,630 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-08-31 19:00:49,630 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-08-31 19:00:49,632 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 19:00:49.632907
+2026-08-31 19:00:49,668 [INFO] [MainThread] [root/bar.py:147]: Screen geometry changed. Updating position for bar (primary-bar_DELL S2415H_58dfc720)
+2026-08-31 19:00:49,894 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-08-31 19:00:49,895 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-08-31 19:00:49,895 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-08-31 19:00:49,895 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2026-08-31 19:00:49,972 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-31 19:00:49,972 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-31 19:00:49,988 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-08-31 19:00:49,991 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-08-31 19:00:49,999 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-08-31 19:00:50,000 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-08-31 19:00:50,896 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2026-08-31 19:00:51,018 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-08-31 19:00:51,059 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-08-31 19:00:51,782 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-08-31 19:00:51,782 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-08-31 19:00:51,782 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-08-31 19:00:52,203 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-3b0906c4-a52b-11f1-a0ea-0a6230508fc5
+2026-08-31 19:00:52,315 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-3b0906c4-a52b-11f1-a0ea-0a6230508fc5
+2026-08-31 19:00:52,315 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-08-31 19:00:52,316 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-08-31 19:00:52,699 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 19:00:52.699620
+2026-08-31 19:10:51,697 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 19:10:51.697797
+2026-08-31 19:20:51,565 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 19:20:51.565548
+2026-08-31 19:30:51,506 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 19:30:51.506576
+2026-08-31 19:40:51,468 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 19:40:51.468344
+2026-08-31 19:50:51,512 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 19:50:51.512654
+2026-08-31 20:00:51,646 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 20:00:51.646579
+2026-08-31 20:10:51,647 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 20:10:51.647780
+2026-08-31 20:20:51,888 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 20:20:51.888052
+2026-08-31 20:30:51,760 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 20:30:51.760300
+2026-08-31 20:40:51,642 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 20:40:51.642323
+2026-08-31 20:50:51,640 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 20:50:51.640483
+2026-08-31 21:00:51,647 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 21:00:51.647429
+2026-08-31 21:10:51,654 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 21:10:51.654514
+2026-08-31 21:20:51,680 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 21:20:51.680780
+2026-08-31 21:30:51,678 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 21:30:51.678511
+2026-08-31 21:40:51,655 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 21:40:51.654292
+2026-08-31 21:50:51,656 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 21:50:51.655220
+2026-08-31 22:00:51,675 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 22:00:51.675710
+2026-08-31 22:10:51,657 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 22:10:51.657359
+2026-08-31 22:20:51,650 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 22:20:51.650216
+2026-08-31 22:30:51,660 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 22:30:51.659662
+2026-08-31 22:40:51,766 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 22:40:51.766299
+2026-08-31 22:50:52,282 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 22:50:52.282886
+2026-08-31 23:00:51,814 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 23:00:51.814163
+2026-08-31 23:10:51,654 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 23:10:51.654092
+2026-08-31 23:20:51,653 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 23:20:51.653157
+2026-08-31 23:30:51,879 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 23:30:51.879001
+2026-08-31 23:40:51,637 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-08-31 23:40:51.637439
+2026-08-31 23:50:45,327 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-08-31 23:50:45,328 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-08-31 23:50:45,366 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-09-01 12:58:07,617 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-09-01 12:58:07,618 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-09-01 12:58:07,618 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-09-01 12:58:08,854 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-09-01 12:58:11,245 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-09-01 12:58:12,941 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-09-01 12:58:12,941 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-09-01 12:58:12,942 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-09-01 12:58:12,942 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-bc2b508a-a5c1-11f1-a693-0a6230508fc5
+2026-09-01 12:58:13,347 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-bc2b508a-a5c1-11f1-a693-0a6230508fc5
+2026-09-01 12:58:13,617 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-09-01 12:58:13,620 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-09-01 12:58:13,934 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 12:58:13.934049
+2026-09-01 12:59:30,837 [DEBUG] [MainThread] [root/volume.py:336]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{19c5a862-d011-4dd5-a193-855f13bf20b6}
+2026-09-01 12:59:40,909 [DEBUG] [MainThread] [root/volume.py:336]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{3a8b96eb-abd7-48e0-b481-a2fd05401256}
+2026-09-01 13:08:12,382 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 13:08:12.382417
+2026-09-01 13:18:12,364 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 13:18:12.364051
+2026-09-01 13:28:12,449 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 13:28:12.449894
+2026-09-01 13:38:12,698 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 13:38:12.698698
+2026-09-01 13:48:12,622 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 13:48:12.622337
+2026-09-01 13:58:12,371 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 13:58:12.371328
+2026-09-01 14:08:12,360 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 14:08:12.360264
+2026-09-01 14:18:12,571 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 14:18:12.571532
+2026-09-01 14:28:12,698 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 14:28:12.698769
+2026-09-01 14:38:12,362 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 14:38:12.362177
+2026-09-01 14:48:12,716 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 14:48:12.716686
+2026-09-01 14:58:12,636 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 14:58:12.636525
+2026-09-01 15:08:12,556 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 15:08:12.555433
+2026-09-01 15:18:12,385 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 15:18:12.385294
+2026-09-01 15:28:12,529 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 15:28:12.529370
+2026-09-01 15:38:12,586 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 15:38:12.586767
+2026-09-01 15:48:12,545 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 15:48:12.545397
+2026-09-01 15:58:12,364 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 15:58:12.364980
+2026-09-01 16:08:12,584 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 16:08:12.584036
+2026-09-01 16:18:12,550 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 16:18:12.550763
+2026-09-01 16:28:12,565 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 16:28:12.565528
+2026-09-01 16:38:12,531 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 16:38:12.531136
+2026-09-01 16:48:12,563 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 16:48:12.563443
+2026-09-01 16:58:12,572 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 16:58:12.572418
+2026-09-01 17:08:12,557 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 17:08:12.557023
+2026-09-01 17:18:12,649 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 17:18:12.649336
+2026-09-01 17:28:12,565 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 17:28:12.565976
+2026-09-01 17:38:12,562 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 17:38:12.562003
+2026-09-01 17:48:12,370 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 17:48:12.370246
+2026-09-01 17:58:12,563 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 17:58:12.563217
+2026-09-01 18:08:12,552 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 18:08:12.551847
+2026-09-01 18:18:12,555 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 18:18:12.555597
+2026-09-01 18:28:12,564 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 18:28:12.564988
+2026-09-01 18:38:12,559 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 18:38:12.559303
+2026-09-01 18:48:12,858 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 18:48:12.858965
+2026-09-01 18:58:12,366 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 18:58:12.366996
+2026-09-01 19:08:12,560 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 19:08:12.560000
+2026-09-01 19:18:12,548 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 19:18:12.548839
+2026-09-01 19:28:12,382 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 19:28:12.382573
+2026-09-01 19:38:12,576 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 19:38:12.576374
+2026-09-01 19:48:12,542 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 19:48:12.542847
+2026-09-01 19:58:12,544 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 19:58:12.544979
+2026-09-01 20:08:12,549 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 20:08:12.549444
+2026-09-01 20:18:12,552 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 20:18:12.552866
+2026-09-01 20:28:12,539 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 20:28:12.539466
+2026-09-01 20:38:12,372 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 20:38:12.372347
+2026-09-01 20:48:12,381 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 20:48:12.381959
+2026-09-01 20:58:12,558 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 20:58:12.558380
+2026-09-01 21:08:12,598 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 21:08:12.598937
+2026-09-01 21:18:12,547 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 21:18:12.547004
+2026-09-01 21:28:12,574 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 21:28:12.573892
+2026-09-01 21:38:12,538 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 21:38:12.538708
+2026-09-01 21:48:12,550 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 21:48:12.550489
+2026-09-01 21:58:12,549 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 21:58:12.549127
+2026-09-01 22:08:12,598 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 22:08:12.598646
+2026-09-01 22:18:12,547 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 22:18:12.547828
+2026-09-01 22:28:12,737 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 22:28:12.737501
+2026-09-01 22:38:14,393 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 22:38:14.393409
+2026-09-01 22:48:14,288 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 22:48:14.288244
+2026-09-01 22:58:14,307 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 22:58:14.307718
+2026-09-01 23:08:14,263 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 23:08:14.263818
+2026-09-01 23:18:14,096 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 23:18:14.096898
+2026-09-01 23:28:14,090 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 23:28:14.090238
+2026-09-01 23:38:14,106 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 23:38:14.106601
+2026-09-01 23:48:14,247 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 23:48:14.247211
+2026-09-01 23:58:14,313 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-01 23:58:14.311434
+2026-09-02 00:08:14,305 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 00:08:14.305773
+2026-09-02 00:18:14,298 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 00:18:14.298089
+2026-09-02 00:28:14,294 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 00:28:14.294384
+2026-09-02 00:38:14,280 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 00:38:14.280372
+2026-09-02 00:48:14,287 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 00:48:14.286500
+2026-09-02 00:58:14,102 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 00:58:14.102967
+2026-09-02 01:08:14,316 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 01:08:14.316129
+2026-09-02 01:15:01,251 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-09-02 01:15:01,253 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-09-02 01:15:01,313 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-09-02 11:19:09,559 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-09-02 11:19:09,560 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-09-02 11:19:09,561 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-09-02 11:19:11,424 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-09-02 11:19:15,150 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-09-02 11:19:16,603 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-09-02 11:19:16,605 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-09-02 11:19:16,605 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-09-02 11:19:16,694 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-143fd283-a67d-11f1-a898-0a6230508fc5
+2026-09-02 11:19:16,716 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-09-02 11:19:16,716 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-09-02 11:19:16,808 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-143fd283-a67d-11f1-a898-0a6230508fc5
+2026-09-02 11:19:17,071 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 11:19:17.071748
+2026-09-02 11:20:00,387 [DEBUG] [MainThread] [root/volume.py:336]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{19c5a862-d011-4dd5-a193-855f13bf20b6}
+2026-09-02 11:20:13,313 [DEBUG] [MainThread] [root/volume.py:336]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{3a8b96eb-abd7-48e0-b481-a2fd05401256}
+2026-09-02 11:29:16,660 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 11:29:16.660001
+2026-09-02 11:39:16,158 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 11:39:16.158468
+2026-09-02 11:49:16,359 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 11:49:16.358187
+2026-09-02 11:59:16,353 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 11:59:16.353471
+2026-09-02 12:09:16,179 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 12:09:16.179535
+2026-09-02 12:19:16,371 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 12:19:16.371308
+2026-09-02 12:29:16,438 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 12:29:16.438106
+2026-09-02 12:39:16,715 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 12:39:16.715137
+2026-09-02 12:49:16,196 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 12:49:16.196009
+2026-09-02 12:59:16,165 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 12:59:16.165092
+2026-09-02 13:09:16,530 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 13:09:16.529588
+2026-09-02 13:19:16,275 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 13:19:16.274772
+2026-09-02 13:29:16,472 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 13:29:16.472658
+2026-09-02 13:39:16,186 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 13:39:16.186286
+2026-09-02 13:49:16,176 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 13:49:16.176309
+2026-09-02 13:59:16,169 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 13:59:16.168921
+2026-09-02 14:09:16,177 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 14:09:16.177151
+2026-09-02 14:19:17,907 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 14:19:17.906767
+2026-09-02 14:29:16,554 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 14:29:16.554969
+2026-09-02 14:39:16,350 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 14:39:16.350247
+2026-09-02 14:49:16,363 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 14:49:16.363942
+2026-09-02 14:59:16,168 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 14:59:16.168423
+2026-09-02 15:09:16,323 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 15:09:16.323284
+2026-09-02 15:19:16,186 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 15:19:16.186244
+2026-09-02 15:29:16,169 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 15:29:16.169634
+2026-09-02 15:39:16,522 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 15:39:16.522395
+2026-09-02 15:49:16,594 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 15:49:16.594003
+2026-09-02 15:59:16,344 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 15:59:16.344420
+2026-09-02 16:09:16,373 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 16:09:16.373260
+2026-09-02 16:19:16,372 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 16:19:16.372002
+2026-09-02 16:29:16,368 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 16:29:16.368833
+2026-09-02 16:39:16,360 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 16:39:16.360013
+2026-09-02 16:49:16,432 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 16:49:16.432601
+2026-09-02 16:59:16,168 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 16:59:16.168783
+2026-09-02 17:09:16,371 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 17:09:16.371977
+2026-09-02 17:19:16,353 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 17:19:16.353706
+2026-09-02 17:29:16,340 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 17:29:16.340593
+2026-09-02 17:39:16,167 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 17:39:16.167618
+2026-09-02 17:49:16,746 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 17:49:16.745494
+2026-09-02 17:59:16,387 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 17:59:16.387668
+2026-09-02 18:09:16,505 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 18:09:16.504829
+2026-09-02 18:19:16,388 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 18:19:16.388059
+2026-09-02 18:29:16,335 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 18:29:16.335707
+2026-09-02 18:39:16,172 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 18:39:16.172695
+2026-09-02 18:49:16,281 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 18:49:16.281509
+2026-09-02 18:59:16,353 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 18:59:16.353383
+2026-09-02 19:09:16,342 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 19:09:16.342255
+2026-09-02 19:19:16,360 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 19:19:16.360611
+2026-09-02 19:29:16,359 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 19:29:16.359042
+2026-09-02 19:39:16,366 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 19:39:16.366377
+2026-09-02 19:49:16,342 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 19:49:16.342661
+2026-09-02 19:59:16,413 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 19:59:16.413168
+2026-09-02 20:09:16,355 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 20:09:16.355461
+2026-09-02 20:19:16,187 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 20:19:16.187419
+2026-09-02 20:29:16,519 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 20:29:16.519194
+2026-09-02 20:39:16,356 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 20:39:16.356146
+2026-09-02 20:49:16,349 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 20:49:16.348781
+2026-09-02 20:59:16,361 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 20:59:16.361263
+2026-09-02 21:09:16,268 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 21:09:16.268590
+2026-09-02 21:19:16,176 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 21:19:16.176711
+2026-09-02 21:29:16,177 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 21:29:16.177885
+2026-09-02 21:39:16,271 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 21:39:16.271323
+2026-09-02 21:49:16,346 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 21:49:16.346559
+2026-09-02 21:59:18,585 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 21:59:18.585194
+2026-09-02 22:09:18,783 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 22:09:18.783635
+2026-09-02 22:19:18,709 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 22:19:18.709569
+2026-09-02 22:29:18,705 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 22:29:18.705404
+2026-09-02 22:39:19,039 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 22:39:19.038828
+2026-09-02 22:49:18,701 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 22:49:18.701271
+2026-09-02 22:59:18,526 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-02 22:59:18.526566
+2026-09-02 22:59:34,389 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-09-02 22:59:34,389 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-09-02 22:59:34,427 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-09-04 20:08:11,626 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-09-04 20:08:11,627 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-09-04 20:08:11,627 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-09-04 20:08:12,350 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-09-04 20:08:14,733 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-09-04 20:08:16,006 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-09-04 20:08:16,007 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-09-04 20:08:16,007 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-09-04 20:08:16,675 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-4f3bd79b-a859-11f1-87d1-0a6230508fc5
+2026-09-04 20:08:16,780 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-09-04 20:08:16,781 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-09-04 20:08:16,803 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-4f3bd79b-a859-11f1-87d1-0a6230508fc5
+2026-09-04 20:08:17,405 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 20:08:17.405311
+2026-09-04 20:18:16,021 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 20:18:16.021230
+2026-09-04 20:28:15,761 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 20:28:15.761327
+2026-09-04 20:38:16,277 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 20:38:16.277375
+2026-09-04 20:48:16,037 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 20:48:16.037366
+2026-09-04 20:58:15,770 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 20:58:15.770722
+2026-09-04 21:08:16,061 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 21:08:16.060561
+2026-09-04 21:18:15,757 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 21:18:15.757162
+2026-09-04 21:28:16,051 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 21:28:16.051131
+2026-09-04 21:38:16,352 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 21:38:16.352575
+2026-09-04 21:48:16,036 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 21:48:16.036113
+2026-09-04 21:58:15,767 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 21:58:15.767078
+2026-09-04 22:08:16,057 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 22:08:16.057442
+2026-09-04 22:18:15,758 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 22:18:15.758467
+2026-09-04 22:28:16,025 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 22:28:16.025033
+2026-09-04 22:38:16,028 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 22:38:16.028692
+2026-09-04 22:48:16,139 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 22:48:16.139278
+2026-09-04 22:58:16,150 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 22:58:16.150238
+2026-09-04 23:08:16,021 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 23:08:16.021314
+2026-09-04 23:18:16,038 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 23:18:16.038802
+2026-09-04 23:28:16,021 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 23:28:16.020976
+2026-09-04 23:38:15,792 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 23:38:15.792389
+2026-09-04 23:48:15,762 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 23:48:15.762479
+2026-09-04 23:58:15,753 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-04 23:58:15.753183
+2026-09-05 00:08:15,752 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-05 00:08:15.752291
+2026-09-05 00:18:16,032 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-05 00:18:16.032259
+2026-09-05 00:28:16,199 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-05 00:28:16.199587
+2026-09-05 00:38:15,760 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-05 00:38:15.760274
+2026-09-05 00:48:16,021 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-05 00:48:16.021174
+2026-09-05 00:58:15,769 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-05 00:58:15.769236
+2026-09-05 01:08:16,025 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-05 01:08:16.025035
+2026-09-05 01:18:16,041 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-09-05 01:18:16.041547
+2026-09-05 01:23:02,453 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-09-05 01:23:02,453 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-09-05 01:23:02,487 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...

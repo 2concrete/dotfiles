@@ -1,0 +1,3 @@
+[filesystem "Microsoft|25.0.1|-1899664947"]
+	timestampResolution = 1032 microseconds
+	minRacyThreshold = 0 nanoseconds
