@@ -62,9 +62,9 @@
   },
   "animation": {
     "enabled": false,
-    "duration": 250,
-    "fps": 165,
-    "style": "EaseOutSine"
+    "duration": 150,
+    "fps": 120,
+    "style": "EaseInBounce"
   },
   "monitors": [
     {
@@ -80,6 +80,38 @@
         {
           "name": "III",
           "layout": "BSP"
+        },
+        {
+          "name": "IV",
+          "layout": "BSP"
+        },
+        {
+          "name": "V",
+          "layout": "BSP"
+        },
+        {
+          "name": "VI",
+          "layout": "BSP"
+        },
+        {
+          "name": "VII",
+          "layout": "BSP"
+        }
+      ]
+    },
+    {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "Rows"
+        },
+        {
+          "name": "II",
+          "layout": "BSP"
+        },
+        {
+          "name": "III",
+          "layout": "Rows"
         },
         {
           "name": "IV",
