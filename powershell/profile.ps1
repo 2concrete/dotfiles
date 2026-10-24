@@ -7,10 +7,8 @@ if (Test-Path($ChocolateyProfile)) {
   Import-Module "$ChocolateyProfile"
 }
 
-try {
-    $null = $Host.UI.RawUI.WindowSize
-    winfetch
-} catch {
+if ([Environment]::UserInteractive -and -not ([Console]::IsInputRedirected)) {
+    fastfetch
 }
 
 

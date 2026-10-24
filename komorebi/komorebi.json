@@ -30,12 +30,12 @@
     },
     {
       "kind": "Title",
-      "id": "StoneBlock",
+      "id": "T6",
       "matching_strategy": "Contains"
     },
     {
-      "kind": "Title",
-      "id": "T6",
+      "kind": "Exe",
+      "id": "OpenRGB",
       "matching_strategy": "Contains"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "kind": "Exe",
-      "id": "OpenRGB",
+      "id": "Minecraft",
       "matching_strategy": "Contains"
     }
   ],
