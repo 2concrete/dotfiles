@@ -4,7 +4,7 @@
 
 - [komorebi](https://github.com/LGUG2Z/komorebi) - window manager
 - [yasb](https://github.com/amnweb/yasb) - status bar
-- [winfetch](https://github.com/fastfetch-cli/fastfetch) - hello kitty ascii
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch) - hello kitty ascii
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) terminal theme
 - [yazi](https://github.com/sxyazi/yazi) - tui file manager
 - [bottom](https://github.com/clementtsang/bottom) - tui system monitor
