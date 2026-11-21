@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "myip",
+  "description": "Show your public IPv4 and IPv6 and local IP addresses and look up IP location details on Mac and Windows, and show your IP in the Mac menu bar.",
+  "author": {
+    "name": "Kang"
+  },
+  "license": "MIT"
+}

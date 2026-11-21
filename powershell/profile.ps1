@@ -11,6 +11,8 @@ if ([Environment]::UserInteractive -and -not ([Console]::IsInputRedirected)) {
     fastfetch
 }
 
+function ai { python "$HOME\ai\ask.py" }
+
 
 
 function y {

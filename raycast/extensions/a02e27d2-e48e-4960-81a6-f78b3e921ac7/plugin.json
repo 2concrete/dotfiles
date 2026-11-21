@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "raycast-explorer",
+  "description": "Browse Raycast Explorer for AI prompts, presets, Quicklinks, snippets and themes, and add them to Raycast in one step.",
+  "author": {
+    "name": "thomaslombart"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bitwarden",
+  "description": "Search your Bitwarden password vault, copy passwords, usernames and TOTP codes, generate passwords, and create or receive Sends.",
+  "author": {
+    "name": "jomifepe"
+  },
+  "license": "MIT",
+  "keywords": [
+    "bitwarden",
+    "secrets",
+    "security",
+    "passwords"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "weather",
+  "description": "See the current weather and multi-day forecast for any city or your location, with weather in the menu bar, powered by wttr.in.",
+  "author": {
+    "name": "tonka3000"
+  },
+  "license": "MIT",
+  "version": "0.3.0"
+}

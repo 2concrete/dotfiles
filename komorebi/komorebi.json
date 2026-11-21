@@ -47,7 +47,13 @@
       "kind": "Exe",
       "id": "Minecraft",
       "matching_strategy": "Contains"
+    },
+    {
+      "kind": "Exe",
+      "id": "deadlock",
+      "matching_strategy": "Contains"
     }
+
   ],
   "border_offset": 1,
   "theme": {

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "lemniscate-system-monitor",
+  "description": "Monitor CPU and memory usage in real time, with a visual chart and a list of top processes.",
+  "author": {
+    "name": "zhassulan_abdrakhmanov"
+  },
+  "license": "MIT"
+}
