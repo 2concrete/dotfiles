@@ -83,7 +83,7 @@
     "origin": "store",
     "preferences": "preferences.json",
     "no-updates": false,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "42b8c4ac-76d5-4521-9917-2e478931ee53",
@@ -110,6 +110,52 @@
     ],
     "stars": 3,
     "origin": "store",
+    "no-updates": false,
+    "enabled": true
+  },
+  {
+    "id": "72f8f48d-86b9-4487-acea-eb4977b18f21",
+    "name": "Better CtrlTab Panel",
+    "description": "Re-style and add customization options for the CtrlTab panel.",
+    "homepage": "https://github.com/psu/zen-mods",
+    "style": {
+      "chrome": "chrome.css",
+      "content": ""
+    },
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/72f8f48d-86b9-4487-acea-eb4977b18f21/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/72f8f48d-86b9-4487-acea-eb4977b18f21/image.png",
+    "author": "psu",
+    "version": "1.0.1",
+    "tags": [],
+    "createdAt": "2025-03-28",
+    "updatedAt": "2025-05-22",
+    "preferences": "preferences.json",
+    "no-updates": false,
+    "enabled": true
+  },
+  {
+    "id": "zen-auto-expand-sidebar",
+    "name": "Sidebar Expand on Hover",
+    "description": "Expand the sidebar on hover, with many configurations avaliable",
+    "homepage": "https://github.com/StormAnon/zen-sidebar-expand-on-hover/tree/sine",
+    "style": {
+      "chrome": "chrome.css",
+      "content": ""
+    },
+    "readme": "https://raw.githubusercontent.com/StormAnon/zen-sidebar-expand-on-hover/sine/README.md",
+    "image": "https://raw.githubusercontent.com/StormAnon/zen-sidebar-expand-on-hover/sine/image.png",
+    "author": "StormAnon",
+    "version": "1.0.0",
+    "fork": [
+      "zen"
+    ],
+    "tags": [
+      "ui",
+      "customization"
+    ],
+    "stars": 22,
+    "origin": "store",
+    "preferences": "preferences.json",
     "no-updates": false,
     "enabled": true
   }

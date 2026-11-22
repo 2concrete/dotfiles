@@ -3825,3 +3825,1014 @@ Exception: Weather response error 408: UnknownContentError 299.
 2026-11-21 20:44:27,916 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
 2026-11-21 20:44:27,917 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
 2026-11-21 20:44:27,958 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-11-22 08:06:42,400 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2026-11-22 08:06:42,414 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2026-11-22 08:06:42,415 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-11-22 08:06:44,427 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2026-11-22 08:06:49,211 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2026-11-22 08:06:52,344 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-11-22 08:06:52,344 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-11-22 08:06:52,346 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\daniel\.config\yasb
+2026-11-22 08:06:52,874 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-9ecb6dfb-e608-11f1-99c6-0a6230508fc5
+2026-11-22 08:06:53,173 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-11-22 08:06:53,180 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-9ecb6dfb-e608-11f1-99c6-0a6230508fc5
+2026-11-22 08:06:53,202 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-11-22 08:06:53,647 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:06:53,647 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:06:53,650 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:03,864 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:03,871 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:03,872 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:03,915 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:14,106 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:14,166 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:14,167 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:14,221 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:24,369 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:24,383 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:24,383 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:24,396 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:34,589 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:34,589 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:34,589 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:34,601 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:44,795 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:44,795 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:44,795 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:44,807 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:55,006 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:07:55,006 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:55,007 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:07:55,021 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:05,210 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:05,210 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:05,211 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:05,219 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:15,889 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:15,889 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:15,889 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:15,897 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:26,099 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:26,099 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:26,099 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:26,114 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:36,303 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:36,303 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:36,304 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:36,377 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:46,506 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:46,506 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:46,506 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:46,520 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:56,705 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:08:56,705 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:56,706 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:08:56,727 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:06,912 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:06,912 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:06,912 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:06,923 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:17,115 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:17,115 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:17,116 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:17,129 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:27,315 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:27,316 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:27,316 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:27,329 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:37,522 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:37,523 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:37,523 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:37,533 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:47,732 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:47,732 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:47,732 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:47,744 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:57,943 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:09:57,943 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:57,944 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:09:57,957 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:08,144 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:08,146 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:08,146 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:08,167 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:18,342 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:18,342 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:18,343 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:18,760 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:28,549 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:28,549 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:28,550 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:28,569 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:38,761 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:38,761 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:38,762 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:38,770 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:48,962 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:48,962 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:48,963 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:48,975 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:59,167 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:10:59,167 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:59,167 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:10:59,169 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:09,372 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:09,372 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:09,373 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:09,385 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:19,602 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:19,602 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:19,603 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:19,664 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:29,802 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:29,802 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:29,802 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:29,815 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:40,034 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:40,034 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:40,034 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:40,216 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:50,244 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:11:50,244 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:50,245 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:11:50,258 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:00,441 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:00,441 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:00,442 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:00,452 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:10,654 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:10,654 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:10,655 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:11,025 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:20,864 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:20,864 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:20,865 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:20,877 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:31,076 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:31,076 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:31,077 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:31,086 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:41,286 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:41,286 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:41,286 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:41,305 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:51,485 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:12:51,485 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:51,485 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:12:51,496 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:01,700 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:01,700 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:01,700 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:01,705 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:11,924 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:11,924 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:11,925 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:11,926 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:22,142 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:22,142 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:22,143 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:22,171 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:32,343 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:32,344 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:32,344 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:32,358 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:42,551 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:42,551 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:42,552 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:42,561 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:52,751 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:13:52,751 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:52,752 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:13:52,796 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:02,954 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:02,954 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:02,954 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:02,974 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:13,162 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:13,162 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:13,163 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:13,177 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:23,374 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:23,374 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:23,375 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:23,385 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:33,594 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:33,595 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:33,596 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:33,598 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:43,865 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:43,865 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:43,866 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:43,867 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:54,066 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:14:54,066 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:54,067 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:14:54,075 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:04,285 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:04,285 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:04,285 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:04,296 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:14,490 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:14,490 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:14,491 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:14,498 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:24,690 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:24,690 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:24,692 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:24,707 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:34,902 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:34,902 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:34,904 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:35,596 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:45,115 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:45,115 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:45,116 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:45,129 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:55,314 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:15:55,314 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:55,315 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:15:55,327 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:05,522 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:05,522 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:05,523 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:05,536 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:15,726 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:15,726 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:15,726 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:15,739 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:25,935 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:25,935 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:25,936 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:25,942 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:36,144 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:36,144 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:36,145 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:36,161 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:46,356 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:46,356 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:46,357 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:46,368 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:50,496 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:56,567 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:16:56,567 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:56,568 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:16:56,593 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:06,774 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:06,774 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:06,775 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:06,788 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:16,974 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:16,974 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:16,975 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:16,995 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:27,182 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:27,182 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:27,183 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:27,191 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:37,383 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:37,383 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:37,384 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:37,395 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:47,588 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:47,588 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:47,589 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:47,607 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:57,782 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:17:57,782 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:57,784 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:17:57,798 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:07,995 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:07,996 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:07,996 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:07,999 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:18,187 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:18,187 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:18,189 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:18,326 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:28,395 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:28,395 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:28,396 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:28,420 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:38,601 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:38,601 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:38,602 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:38,625 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:48,814 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:48,814 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:48,815 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:48,816 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:59,040 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:18:59,040 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:59,041 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:18:59,139 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:09,235 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:09,235 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:09,236 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:09,260 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:19,459 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:19,459 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:19,460 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:19,460 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:29,662 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:29,662 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:29,663 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:29,674 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:39,865 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:39,865 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:39,866 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:39,889 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:50,072 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:19:50,072 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:50,073 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:19:50,081 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:00,273 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:00,274 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:00,274 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:00,285 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:10,480 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:10,480 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:10,481 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:10,853 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:20,674 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:20,674 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:20,675 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:20,694 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:30,875 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:30,875 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:30,876 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:30,888 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:41,090 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:41,091 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:41,091 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:41,097 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:51,310 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:20:51,311 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:51,311 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:20:51,325 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:01,521 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:01,521 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:01,522 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:01,535 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:11,719 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:11,719 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:11,720 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:11,739 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:21,926 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:21,926 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:21,927 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:21,939 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:32,134 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:32,134 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:32,135 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:32,140 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:42,345 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:42,346 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:42,347 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:42,349 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:52,553 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:21:52,553 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:52,554 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:21:52,562 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:03,131 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:03,131 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:03,131 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:03,143 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:13,334 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:13,334 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:13,335 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:13,347 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:23,538 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:23,538 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:23,540 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:23,549 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:33,742 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:33,742 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:33,743 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:33,755 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:43,950 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:43,950 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:43,951 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:43,969 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:54,168 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:22:54,168 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:54,169 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:22:54,175 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:04,384 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:04,384 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:04,385 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:04,393 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:14,680 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:14,680 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:14,681 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:14,717 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:24,893 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:24,893 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:24,894 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:24,905 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:35,102 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:35,102 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:35,103 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:35,113 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:45,304 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:45,304 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:45,305 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:45,315 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:55,520 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:23:55,520 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:55,521 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:23:55,523 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:05,721 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:05,721 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:05,722 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:05,760 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:15,927 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:15,927 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:15,929 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:15,941 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:26,129 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:26,130 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:26,131 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:26,142 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:36,344 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:36,344 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:36,345 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:36,347 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:46,559 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:46,559 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:46,560 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:46,581 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:56,776 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:24:56,776 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:56,777 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:24:56,778 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:06,978 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:06,978 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:06,979 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:06,995 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:17,187 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:17,187 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:17,188 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:17,191 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:27,392 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:27,392 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:27,393 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:27,443 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:37,604 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:37,604 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:37,605 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:37,623 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:47,800 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:47,800 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:47,801 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:47,822 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:58,028 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:25:58,028 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:58,029 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:25:58,029 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:08,235 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:08,236 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:08,237 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:08,268 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:18,446 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:18,446 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:18,447 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:18,457 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:28,643 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:28,644 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:28,645 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:28,665 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:38,845 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:38,845 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:38,846 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:38,865 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:49,055 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:49,055 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:49,056 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:49,084 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:50,502 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:59,260 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:26:59,260 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:59,262 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:26:59,276 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:09,461 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:09,461 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:09,462 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:09,471 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:19,661 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:19,661 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:19,662 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:19,677 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:29,866 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:29,866 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:29,867 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:29,879 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:40,064 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:40,064 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:40,065 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:40,079 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:50,271 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:27:50,271 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:50,272 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:27:50,288 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:00,475 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:00,475 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:00,476 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:00,492 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:10,676 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:10,677 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:10,678 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:10,702 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:20,883 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:20,883 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:20,884 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:20,893 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:31,082 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:31,082 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:31,083 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:31,111 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:41,295 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:41,295 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:41,297 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:41,313 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:51,547 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:28:51,547 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:51,548 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:28:51,883 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:01,757 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:01,757 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:01,758 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:01,768 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:11,953 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:11,953 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:11,954 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:11,967 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:22,164 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:22,165 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:22,165 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:22,175 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:32,367 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:32,367 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:32,368 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:32,382 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:42,588 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:42,588 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:42,590 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:42,937 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:52,784 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:29:52,784 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:52,786 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:29:52,804 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:03,002 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:03,002 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:03,003 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:03,012 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:13,212 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:13,212 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:13,214 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:13,225 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:23,411 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:23,412 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:23,413 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:23,434 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:33,614 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:33,614 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:33,615 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:33,720 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:43,815 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:43,815 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:43,816 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:43,829 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:54,018 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:30:54,018 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:54,019 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:30:54,126 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:04,235 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:04,235 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:04,236 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:04,241 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:14,438 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:14,438 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:14,439 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:14,451 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:24,648 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:24,648 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:24,649 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:24,662 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:34,844 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:34,844 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:34,845 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:34,859 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:45,107 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:45,107 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:45,108 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:45,109 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:55,315 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:31:55,316 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:55,317 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:31:55,330 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:05,523 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:05,523 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:05,524 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:05,532 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:15,724 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:15,724 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:15,726 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:15,738 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:25,926 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:25,926 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:25,929 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:25,939 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:36,130 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:36,130 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:36,131 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:36,141 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:46,339 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:46,339 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:46,340 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:46,365 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:56,533 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:32:56,533 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:56,535 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:32:56,554 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:06,739 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:06,739 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:06,740 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:06,825 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:16,938 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:16,938 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:16,939 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:16,952 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:27,141 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:27,141 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:27,143 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:27,155 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:37,365 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:37,365 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:37,366 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:37,367 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:47,570 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:47,571 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:47,572 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:47,583 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:57,780 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:33:57,780 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:57,782 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:33:57,788 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:08,001 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:08,001 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:08,002 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:08,175 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:18,220 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:18,220 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:18,221 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:18,229 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:28,424 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:28,424 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:28,426 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:28,443 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:38,634 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:38,634 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:38,635 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:38,653 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:48,844 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:48,844 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:48,846 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:48,848 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:59,053 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:34:59,053 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:59,054 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:34:59,067 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:09,275 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:09,275 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:09,276 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:09,281 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:19,479 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:19,479 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:19,480 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:19,493 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:29,689 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:29,689 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:29,692 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:29,759 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:39,905 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:39,905 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:39,907 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:39,910 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:50,117 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:35:50,117 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:50,120 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:35:50,126 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:00,317 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:00,318 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:00,320 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:00,339 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:10,520 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:10,520 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:10,522 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:10,587 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:20,731 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:20,731 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:20,732 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:20,805 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:30,947 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:30,947 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:30,949 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:30,958 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:41,143 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:41,143 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:41,144 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:41,161 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:50,492 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:51,350 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:36:51,350 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:51,351 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:36:51,362 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:01,549 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:01,549 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:01,550 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:01,570 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:11,769 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:11,769 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:11,770 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:11,771 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:21,981 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:21,981 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:21,982 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:21,992 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:32,199 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:32,199 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:32,201 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:32,203 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:42,405 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:42,405 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:42,406 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:42,410 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:52,617 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:37:52,617 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:52,618 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:37:52,629 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:02,816 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:02,817 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:02,818 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:02,835 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:13,019 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:13,019 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:13,021 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:13,033 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:23,220 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:23,220 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:23,222 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:23,240 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:33,431 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:33,432 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:33,433 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:33,447 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:43,628 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:43,628 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:43,629 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:43,637 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:53,842 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:38:53,842 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:53,843 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:38:53,851 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:04,058 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:04,058 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:04,060 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:04,065 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:14,254 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:14,254 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:14,255 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:14,270 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:24,457 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:24,457 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:24,459 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:24,489 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:34,668 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:34,668 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:34,671 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:34,674 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:44,889 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:44,889 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:44,891 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:44,895 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:55,109 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:39:55,109 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:55,111 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:39:55,256 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:05,320 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:05,321 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:05,322 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:05,330 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:15,522 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:15,522 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:15,523 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:15,534 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:25,729 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:25,729 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:25,730 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:26,127 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:35,927 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:35,928 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:35,929 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:35,947 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:46,134 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:46,135 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:46,137 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:46,215 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:56,333 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:40:56,333 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:56,334 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:40:56,347 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:06,533 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:06,533 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:06,534 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:06,561 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:16,741 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:16,741 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:16,742 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:16,753 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:26,944 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:26,944 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:26,946 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:26,967 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:37,145 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:37,145 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:37,146 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:37,158 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:47,345 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:47,346 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:47,347 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:47,359 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:57,601 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:41:57,601 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:57,603 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:41:57,606 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:07,807 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:07,807 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:07,809 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:07,811 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:18,030 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:18,030 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:18,031 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:18,136 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:28,243 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:28,243 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:28,245 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:28,253 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:38,441 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:38,441 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:38,443 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:38,455 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:48,656 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:48,657 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:48,658 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:48,675 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:58,875 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:42:58,875 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:58,876 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:42:58,879 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:09,077 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:09,077 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:09,078 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:09,092 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:19,282 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:19,282 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:19,284 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:19,432 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:29,498 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:29,499 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:29,500 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:29,504 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:39,709 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:39,709 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:39,711 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:39,722 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:49,924 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:43:49,925 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:49,926 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:43:50,286 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:00,129 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:00,129 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:00,131 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:00,143 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:10,341 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:10,341 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:10,343 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:10,349 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:20,546 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:20,546 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:20,548 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:20,564 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:30,753 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:30,753 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:30,754 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:30,764 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:40,966 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:40,967 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:40,968 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:40,979 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:51,209 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:44:51,209 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:51,210 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:44:51,213 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:01,411 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:01,411 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:01,412 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:01,426 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:11,614 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:11,614 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:11,616 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:12,063 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:21,844 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:21,844 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:21,846 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:21,847 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:32,054 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:32,054 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:32,056 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:32,074 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:42,252 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:42,252 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:42,254 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:42,275 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:52,454 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:45:52,454 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:52,455 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:45:52,470 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:02,673 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:02,673 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:02,675 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:02,806 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:12,882 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:12,882 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:12,883 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:12,903 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:23,088 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:23,088 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:23,089 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:23,095 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:33,282 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:33,391 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:33,392 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:33,394 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:43,600 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:43,600 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:43,602 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:43,618 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:50,485 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:53,808 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:46:53,808 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:53,810 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:46:53,813 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:04,012 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:04,012 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:04,014 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:04,033 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:14,229 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:14,229 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:14,230 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:14,243 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:24,592 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:24,592 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:24,594 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:24,605 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:34,813 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:34,814 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:34,815 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:34,827 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:45,023 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:45,023 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:45,025 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:45,052 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:55,220 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:47:55,220 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:55,222 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:47:55,233 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:05,427 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:05,427 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:05,429 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:05,563 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:15,638 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:15,638 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:15,640 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:15,718 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:25,857 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:25,857 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:25,858 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:25,876 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:36,067 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:36,068 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:36,069 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:36,080 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:46,267 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:46,267 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:46,269 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:46,280 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:56,477 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:48:56,477 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:56,478 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:48:56,492 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:49:06,687 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-11-22 08:49:06,688 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:49:06,690 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-11-22 08:49:06,691 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
